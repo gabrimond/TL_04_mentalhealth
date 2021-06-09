@@ -1,0 +1,1144 @@
+,nr_employees,mh_benefits,difficulty_mh_leave,employer_mh_consequences,mh_issue_interview,share_friendsfamily_mh,family_history,age,gender,sought_mh_treatment
+0,26-100,Not eligible,Easy,No,Maybe,Open,No,39,Male,0
+1,6-25,No,Easy,No,No,Open,Yes,29,Male,1
+2,6-25,No,Neither easy nor difficult,Maybe,Yes,Open,No,38,Male,1
+4,6-25,Yes,Neither easy nor difficult,Yes,No,Open,Yes,43,Female,1
+5,More than 1000,Yes,Easy,Yes,Maybe,Open,No,42,Male,1
+6,26-100,I don't know,Easy,No,Yes,Not applicable (no mental illness),No,30,Male,0
+7,More than 1000,Yes,Easy,No,No,Open,Yes,37,Female,1
+8,26-100,I don't know,Difficult,Yes,Maybe,Open,Yes,44,Female,1
+10,26-100,Yes,Easy,No,Yes,Open,I don't know,28,Male,1
+11,100-500,Yes,Difficult,Yes,No,Not open,Yes,34,Male,1
+12,100-500,Yes,Easy,No,No,Open,Yes,30,Female,1
+13,100-500,Yes,Easy,No,No,Not open,No,44,Male,0
+14,100-500,Yes,Easy,No,No,Open,Yes,35,Male,1
+15,100-500,I don't know,Neither easy nor difficult,Maybe,Maybe,Neutral,Yes,52,Male,1
+16,26-100,Not eligible,Difficult,Maybe,No,Open,Yes,32,Female,1
+17,500-1000,No,I don't know,Maybe,No,Open,No,34,Male,0
+19,100-500,I don't know,I don't know,Yes,No,Not open,Yes,31,Male,1
+20,6-25,No,Easy,No,No,Not open,Yes,26,Male,0
+21,More than 1000,Yes,Easy,No,No,Neutral,No,35,Male,0
+22,26-100,Yes,Easy,Maybe,Maybe,Neutral,I don't know,25,Male,0
+23,1-5,Yes,Difficult,Maybe,No,Open,Yes,33,Male,1
+25,100-500,Yes,Easy,No,Maybe,Open,No,42,Male,0
+26,26-100,No,Difficult,Yes,Maybe,Open,I don't know,27,Male,1
+27,100-500,I don't know,Difficult,No,No,Not open,No,35,Male,1
+28,500-1000,I don't know,Neither easy nor difficult,Maybe,No,Neutral,Yes,34,Female,1
+29,6-25,Not eligible,Easy,No,No,Not open,Yes,32,Other,1
+30,100-500,Not eligible,Easy,Maybe,Maybe,Open,Yes,32,Other,1
+31,100-500,Yes,Easy,No,No,Open,No,30,Male,1
+32,More than 1000,I don't know,Easy,Maybe,No,Open,I don't know,31,Male,0
+34,26-100,Yes,Easy,No,Yes,Not open,No,36,Male,0
+35,100-500,No,Easy,Maybe,No,Open,No,33,Male,0
+36,26-100,Yes,Easy,No,Yes,Open,Yes,44,Male,1
+37,100-500,No,Easy,No,Maybe,Open,No,29,Male,0
+38,100-500,No,Easy,No,Maybe,Open,Yes,29,Male,1
+39,More than 1000,Yes,Neither easy nor difficult,Maybe,Yes,Open,I don't know,44,Male,0
+41,100-500,Yes,Easy,No,Maybe,Open,I don't know,40,Male,1
+42,More than 1000,Yes,Difficult,Yes,No,Open,Yes,46,Other,1
+44,More than 1000,No,Difficult,Maybe,No,Open,No,41,Male,0
+45,6-25,Yes,Easy,Maybe,No,Open,Yes,33,Male,1
+47,6-25,I don't know,I don't know,Maybe,Maybe,Not open,I don't know,45,Male,0
+49,6-25,Yes,Easy,No,No,Open,No,37,Female,1
+50,26-100,No,Easy,Maybe,No,Neutral,I don't know,37,Male,1
+51,6-25,Yes,Easy,Maybe,Yes,Open,Yes,27,Male,0
+53,More than 1000,Yes,Difficult,Maybe,No,Neutral,Yes,36,Male,1
+54,500-1000,Yes,I don't know,Maybe,No,Neutral,No,34,Male,1
+55,More than 1000,Yes,Difficult,Maybe,No,Not open,No,31,Female,0
+56,26-100,Yes,Easy,No,Maybe,Open,Yes,30,Male,1
+57,100-500,Yes,Difficult,Maybe,No,Not open,Yes,32,Male,0
+58,6-25,Yes,Difficult,No,No,Not open,I don't know,40,Female,0
+59,100-500,I don't know,Neither easy nor difficult,Maybe,Maybe,Not applicable (no mental illness),I don't know,40,Male,0
+60,More than 1000,Yes,Neither easy nor difficult,No,Maybe,Open,I don't know,41,Male,0
+61,26-100,Not eligible,Difficult,Yes,Maybe,Open,No,27,Male,1
+62,26-100,Yes,Easy,No,Maybe,Open,No,30,Male,0
+66,6-25,No,Difficult,Maybe,No,Open,Yes,35,Female,1
+67,More than 1000,Yes,Neither easy nor difficult,Maybe,No,Open,Yes,29,Male,1
+68,100-500,Yes,I don't know,Maybe,No,Open,Yes,28,Male,0
+69,26-100,No,Easy,No,No,Open,I don't know,27,Male,1
+71,100-500,Yes,Neither easy nor difficult,No,Maybe,Open,No,28,Male,0
+72,6-25,I don't know,Difficult,Yes,No,Not open,Yes,46,Male,0
+73,1-5,No,Easy,No,Yes,Open,No,40,Male,1
+74,26-100,Yes,Easy,No,No,Open,Yes,37,Male,0
+75,26-100,No,Easy,No,No,Open,Yes,41,Male,0
+77,6-25,I don't know,Easy,No,Maybe,Open,No,38,Female,0
+78,26-100,I don't know,Difficult,Maybe,No,Neutral,No,33,Male,0
+79,26-100,Yes,Easy,No,Maybe,Open,Yes,33,Male,1
+80,1-5,Yes,I don't know,No,No,Open,No,21,Male,0
+81,1-5,No,Difficult,Maybe,No,Not open,Yes,36,Male,0
+83,26-100,I don't know,Easy,No,Maybe,Open,No,35,Male,0
+85,6-25,Yes,Neither easy nor difficult,Maybe,Yes,Not open,No,45,Male,0
+86,26-100,I don't know,Difficult,Maybe,No,Open,No,41,Male,0
+87,26-100,I don't know,Difficult,Maybe,Maybe,Neutral,I don't know,35,Male,1
+89,26-100,I don't know,Easy,No,No,Open,Yes,24,Female,1
+90,100-500,No,I don't know,Maybe,No,Open,I don't know,33,Male,1
+91,More than 1000,Yes,Neither easy nor difficult,Maybe,No,Not open,Yes,35,Male,1
+92,6-25,No,Neither easy nor difficult,No,Maybe,Open,No,26,Male,0
+93,6-25,No,Difficult,Yes,Yes,Not open,No,17,Male,0
+94,6-25,I don't know,Neither easy nor difficult,No,Maybe,Open,No,29,Female,1
+95,100-500,Yes,Neither easy nor difficult,No,No,Open,Yes,26,Male,1
+96,26-100,I don't know,Easy,No,No,Not applicable (no mental illness),No,36,Female,0
+97,26-100,I don't know,I don't know,No,Maybe,Open,I don't know,46,Male,0
+99,100-500,Yes,Difficult,Maybe,No,Open,Yes,28,Female,1
+100,500-1000,Yes,Neither easy nor difficult,Maybe,No,Not applicable (no mental illness),No,40,Male,0
+101,100-500,I don't know,I don't know,Yes,No,Open,I don't know,23,Male,1
+102,6-25,I don't know,Neither easy nor difficult,No,Yes,Open,Yes,30,Male,0
+103,26-100,I don't know,Easy,Maybe,No,Open,Yes,28,Female,0
+104,26-100,No,Difficult,Yes,No,Open,I don't know,27,Male,0
+106,26-100,Yes,Difficult,Maybe,Maybe,Open,Yes,39,Female,1
+107,More than 1000,Yes,I don't know,Maybe,Maybe,Open,Yes,34,Female,1
+108,6-25,Yes,Easy,No,No,Not open,No,30,Male,1
+110,100-500,I don't know,Easy,No,Yes,Not applicable (no mental illness),No,31,Male,0
+111,26-100,Yes,Easy,No,No,Open,Yes,30,Male,1
+112,More than 1000,Yes,Difficult,Yes,No,Open,Yes,32,Male,0
+115,26-100,Yes,I don't know,Maybe,Maybe,Open,No,51,Male,0
+116,26-100,I don't know,I don't know,No,Maybe,Open,Yes,26,Male,1
+117,26-100,Yes,Easy,No,No,Open,Yes,41,Female,1
+118,100-500,I don't know,Neither easy nor difficult,No,No,Open,Yes,39,Female,1
+119,6-25,Yes,Neither easy nor difficult,Maybe,No,Neutral,Yes,43,Male,1
+120,500-1000,I don't know,Neither easy nor difficult,No,Yes,Open,Yes,30,Male,0
+121,26-100,Yes,Easy,No,No,Not applicable (no mental illness),I don't know,24,Female,0
+123,26-100,No,Difficult,Yes,No,Open,Yes,28,Female,1
+126,1-5,I don't know,Difficult,Yes,No,Open,I don't know,36,Female,1
+128,100-500,I don't know,Easy,Maybe,Maybe,Open,No,34,Male,0
+129,26-100,Yes,Easy,Maybe,No,Neutral,No,44,Female,0
+130,More than 1000,I don't know,Difficult,Maybe,No,Open,I don't know,45,Male,1
+131,6-25,Yes,Difficult,Yes,No,Not open,I don't know,45,Male,1
+132,500-1000,No,Difficult,Yes,No,Open,Yes,30,Male,1
+133,More than 1000,Yes,I don't know,Maybe,No,Neutral,I don't know,34,Male,1
+134,More than 1000,I don't know,Neither easy nor difficult,No,No,Open,Yes,37,Male,0
+135,More than 1000,Yes,I don't know,Maybe,Maybe,Not applicable (no mental illness),No,38,Male,0
+136,26-100,Yes,I don't know,No,No,Neutral,No,31,Male,1
+137,26-100,I don't know,Easy,No,Maybe,Open,No,33,Male,0
+138,100-500,Yes,Difficult,Yes,No,Open,I don't know,29,Female,1
+139,100-500,Yes,Easy,No,Maybe,Open,Yes,35,Male,1
+140,1-5,No,Difficult,Maybe,No,Open,Yes,42,Other,1
+141,26-100,I don't know,I don't know,Yes,No,Open,I don't know,26,Female,0
+142,500-1000,Yes,I don't know,Maybe,Maybe,Open,Yes,36,Female,1
+143,26-100,I don't know,I don't know,Maybe,No,Not open,Yes,21,Male,1
+144,26-100,Yes,Easy,Maybe,No,Open,I don't know,34,Female,1
+146,26-100,Yes,Difficult,Yes,No,Open,No,35,Male,1
+147,6-25,Yes,Easy,No,No,Open,No,44,Male,1
+148,6-25,I don't know,Difficult,No,Maybe,Open,Yes,35,Other,0
+149,More than 1000,No,Difficult,Yes,No,Open,No,45,Male,0
+150,More than 1000,Yes,Easy,No,Yes,Open,No,42,Male,1
+153,100-500,Yes,I don't know,Maybe,Maybe,Open,Yes,36,Male,1
+155,26-100,I don't know,Easy,No,Maybe,Open,I don't know,29,Male,0
+156,100-500,Yes,Easy,Maybe,Maybe,Not open,No,37,Male,0
+157,26-100,No,Difficult,Yes,No,Neutral,I don't know,31,Male,1
+158,More than 1000,I don't know,Difficult,Yes,No,Not open,No,42,Male,0
+159,500-1000,Yes,Easy,Maybe,No,Neutral,No,25,Male,0
+160,6-25,Yes,Easy,No,No,Open,Yes,27,Male,1
+161,More than 1000,Yes,Difficult,Maybe,No,Open,No,41,Female,1
+162,100-500,Yes,Easy,Maybe,No,Open,No,41,Female,0
+163,More than 1000,Yes,Easy,Yes,No,Not applicable (no mental illness),I don't know,55,Female,1
+164,More than 1000,Yes,Neither easy nor difficult,Maybe,Maybe,Open,No,21,Male,0
+165,More than 1000,I don't know,Easy,Maybe,Maybe,Not applicable (no mental illness),No,37,Male,0
+166,More than 1000,I don't know,Easy,Maybe,Maybe,Not applicable (no mental illness),No,34,Female,0
+167,More than 1000,Yes,I don't know,Maybe,No,Not open,I don't know,40,Male,0
+169,More than 1000,Yes,Easy,Maybe,No,Not applicable (no mental illness),No,36,Male,0
+170,26-100,No,Easy,Maybe,No,Open,No,25,Male,0
+171,100-500,I don't know,Neither easy nor difficult,Maybe,Maybe,Open,No,35,Male,0
+172,6-25,No,Neither easy nor difficult,Maybe,No,Open,I don't know,37,Male,1
+173,More than 1000,Yes,Neither easy nor difficult,Maybe,No,Not open,I don't know,45,Male,0
+174,6-25,No,Neither easy nor difficult,Maybe,No,Not open,Yes,26,Male,1
+175,26-100,Yes,Easy,Maybe,No,Open,No,23,Male,0
+176,26-100,Yes,Difficult,Maybe,Maybe,Open,Yes,22,Female,1
+177,26-100,I don't know,Easy,No,No,Open,Yes,46,Female,1
+178,6-25,No,Easy,No,Yes,Neutral,No,31,Male,0
+179,100-500,Yes,Easy,No,Maybe,Open,Yes,27,Male,1
+180,6-25,No,Easy,No,Maybe,Open,I don't know,37,Male,0
+181,100-500,I don't know,Neither easy nor difficult,Maybe,Maybe,Open,No,37,Male,0
+182,1-5,Not eligible,Easy,No,No,Open,No,26,Other,1
+183,500-1000,No,Easy,No,No,Not applicable (no mental illness),Yes,23,Male,1
+184,26-100,Yes,Difficult,Maybe,Maybe,Open,Yes,40,Male,1
+185,1-5,No,Easy,No,Maybe,Open,No,29,Male,0
+186,100-500,Yes,Easy,No,Maybe,Open,I don't know,37,Male,1
+187,100-500,Yes,Difficult,No,No,Not applicable (no mental illness),Yes,34,Female,1
+188,More than 1000,Yes,Easy,No,Maybe,Open,No,40,Male,1
+189,500-1000,Yes,Easy,Maybe,No,Open,No,39,Male,1
+190,500-1000,Yes,Easy,Maybe,Maybe,Open,Yes,28,Male,1
+192,26-100,No,Neither easy nor difficult,No,No,Not open,Yes,27,Male,0
+194,More than 1000,Yes,Difficult,Maybe,Maybe,Open,No,49,Female,1
+195,26-100,No,Easy,Maybe,No,Open,I don't know,35,Male,1
+196,100-500,I don't know,Easy,Maybe,No,Open,Yes,35,Male,1
+198,500-1000,Yes,Neither easy nor difficult,Maybe,No,Neutral,Yes,32,Male,1
+199,More than 1000,Yes,Difficult,Yes,No,Not open,Yes,42,Male,1
+200,100-500,Yes,Difficult,Maybe,No,Open,Yes,33,Female,1
+201,26-100,I don't know,Easy,No,Yes,Open,No,35,Male,0
+202,500-1000,I don't know,Easy,No,No,Open,No,24,Male,0
+203,500-1000,Yes,Easy,No,Yes,Open,Yes,29,Other,1
+204,100-500,I don't know,Difficult,Maybe,No,Open,No,29,Male,1
+205,6-25,Not eligible,Easy,No,Maybe,Not open,No,24,Male,0
+206,500-1000,I don't know,Easy,Maybe,No,Open,Yes,30,Male,1
+207,26-100,I don't know,Difficult,Maybe,No,Open,No,30,Male,1
+208,6-25,No,Difficult,Yes,Maybe,Open,Yes,44,Male,1
+209,100-500,Yes,Easy,No,Maybe,Neutral,No,37,Male,0
+210,500-1000,No,Neither easy nor difficult,No,No,Open,No,28,Male,0
+211,100-500,Yes,Easy,No,Maybe,Neutral,Yes,42,Male,1
+212,1-5,Yes,Easy,Maybe,No,Open,Yes,30,Female,1
+213,100-500,I don't know,I don't know,Maybe,No,Not open,No,36,Male,1
+214,500-1000,I don't know,Neither easy nor difficult,Maybe,Maybe,Not applicable (no mental illness),No,30,Male,0
+215,6-25,I don't know,Neither easy nor difficult,Maybe,Maybe,Not applicable (no mental illness),No,29,Male,0
+216,500-1000,I don't know,I don't know,Maybe,No,Not applicable (no mental illness),No,25,Male,0
+217,26-100,No,Easy,No,Maybe,Open,No,25,Male,0
+218,500-1000,I don't know,Easy,No,Maybe,Open,No,24,Male,0
+219,More than 1000,No,Easy,Yes,No,Open,No,25,Male,1
+220,26-100,Yes,Easy,No,Yes,Open,I don't know,31,Male,0
+221,26-100,Yes,I don't know,Maybe,Maybe,Open,Yes,37,Male,0
+222,100-500,I don't know,Easy,No,Maybe,Open,No,35,Male,0
+223,6-25,Not eligible,Easy,Maybe,No,Not open,Yes,26,Female,1
+224,100-500,Yes,Easy,No,No,Open,I don't know,31,Male,0
+225,500-1000,Yes,Easy,Maybe,No,Not open,Yes,29,Female,1
+226,26-100,I don't know,Easy,Maybe,No,Neutral,Yes,33,Male,0
+227,26-100,No,Easy,Maybe,Maybe,Not open,No,30,Male,0
+228,26-100,Yes,Neither easy nor difficult,Maybe,Maybe,Open,I don't know,30,Male,0
+229,100-500,Yes,Difficult,Maybe,No,Open,Yes,29,Female,1
+230,26-100,I don't know,Difficult,Maybe,No,Not open,I don't know,25,Female,1
+231,More than 1000,Yes,Easy,No,Yes,Open,Yes,27,Male,1
+232,500-1000,Yes,Easy,No,Maybe,Not open,No,26,Male,0
+233,500-1000,Yes,Easy,No,Maybe,Open,Yes,38,Female,0
+234,More than 1000,Yes,Difficult,Yes,No,Open,Yes,49,Male,1
+235,26-100,Yes,Easy,No,Yes,Open,Yes,30,Male,0
+237,100-500,No,Easy,Maybe,Yes,Not open,No,31,Male,0
+239,100-500,No,Easy,Maybe,Yes,Open,No,31,Male,0
+240,100-500,Not eligible,Neither easy nor difficult,Yes,No,Open,I don't know,34,Male,1
+241,6-25,I don't know,Easy,Maybe,Maybe,Open,No,28,Male,1
+243,500-1000,I don't know,Easy,No,No,Open,I don't know,27,Male,0
+245,6-25,I don't know,Neither easy nor difficult,Maybe,Maybe,Neutral,I don't know,37,Female,1
+246,More than 1000,Not eligible,Easy,Yes,No,Open,No,45,Male,1
+247,6-25,No,Easy,No,No,Open,Yes,31,Female,1
+248,More than 1000,No,Difficult,Maybe,No,Not applicable (no mental illness),No,36,Male,0
+249,500-1000,Yes,I don't know,Maybe,Maybe,Open,Yes,30,Male,1
+250,More than 1000,Yes,Difficult,Maybe,No,Open,Yes,33,Female,1
+251,500-1000,Yes,I don't know,Maybe,No,Not open,I don't know,45,Female,1
+252,26-100,Yes,Easy,No,No,Open,Yes,30,Female,1
+253,26-100,Yes,Neither easy nor difficult,Maybe,No,Not open,Yes,30,Male,1
+255,1-5,No,Easy,No,Maybe,Open,Yes,36,Male,0
+256,26-100,Yes,Easy,No,Maybe,Open,Yes,28,Male,1
+257,26-100,Yes,Easy,No,No,Open,No,36,Male,1
+258,500-1000,Yes,Neither easy nor difficult,Maybe,No,Not open,Yes,37,Female,1
+259,26-100,Yes,Easy,No,No,Open,Yes,29,Male,1
+260,26-100,Yes,Easy,No,No,Open,Yes,25,Male,1
+261,26-100,Yes,Neither easy nor difficult,No,No,Open,No,34,Female,0
+262,More than 1000,Yes,Neither easy nor difficult,Maybe,No,Open,No,37,Male,1
+263,More than 1000,Yes,Neither easy nor difficult,Maybe,No,Open,Yes,40,Female,1
+264,100-500,Yes,Difficult,Yes,No,Open,No,32,Male,0
+265,26-100,I don't know,Easy,Maybe,No,Open,No,38,Male,0
+266,26-100,Yes,Difficult,Maybe,No,Open,Yes,31,Female,1
+267,26-100,Yes,Easy,No,Maybe,Open,Yes,28,Female,1
+268,100-500,No,Difficult,Yes,No,Not open,Yes,27,Female,1
+269,26-100,Yes,Easy,Maybe,No,Not open,No,28,Female,1
+270,6-25,I don't know,Easy,No,Maybe,Not open,Yes,26,Male,1
+271,26-100,Yes,Easy,No,Yes,Open,Yes,40,Male,1
+272,More than 1000,Yes,Easy,No,Maybe,Open,No,42,Male,1
+273,26-100,Yes,Easy,No,No,Neutral,I don't know,36,Male,0
+275,500-1000,Yes,Difficult,Maybe,No,Open,I don't know,24,Male,1
+276,100-500,I don't know,Difficult,Yes,Maybe,Not open,I don't know,44,Male,1
+277,More than 1000,Yes,Neither easy nor difficult,No,Maybe,Open,No,31,Male,1
+279,26-100,Yes,Difficult,Maybe,Maybe,Open,Yes,27,Female,0
+280,More than 1000,Yes,Easy,No,No,Not open,Yes,27,Male,1
+281,100-500,Yes,I don't know,No,No,Not applicable (no mental illness),No,28,Male,1
+282,6-25,Yes,Difficult,Yes,No,Open,Yes,20,Female,1
+284,100-500,No,Neither easy nor difficult,Yes,No,Not open,I don't know,38,Male,1
+285,100-500,I don't know,Difficult,Yes,No,Not open,Yes,29,Male,0
+286,100-500,Yes,Easy,Maybe,No,Open,Yes,44,Female,1
+287,500-1000,I don't know,Neither easy nor difficult,No,Yes,Open,I don't know,31,Male,0
+288,6-25,No,Difficult,Yes,No,Open,Yes,54,Male,1
+289,500-1000,I don't know,Easy,No,Maybe,Neutral,Yes,33,Male,0
+290,6-25,No,I don't know,Maybe,Maybe,Not applicable (no mental illness),No,29,Male,0
+291,26-100,I don't know,I don't know,No,No,Not applicable (no mental illness),I don't know,26,Other,1
+292,26-100,I don't know,Easy,No,No,Open,Yes,26,Male,0
+294,100-500,I don't know,I don't know,Yes,No,Open,Yes,38,Female,1
+295,100-500,No,Easy,No,No,Open,Yes,30,Male,1
+297,More than 1000,Yes,Easy,No,Maybe,Open,Yes,47,Female,1
+298,100-500,Yes,Easy,No,Yes,Open,Yes,33,Female,1
+299,More than 1000,I don't know,Neither easy nor difficult,No,No,Neutral,No,22,Male,0
+300,6-25,Not eligible,Difficult,No,Maybe,Not applicable (no mental illness),I don't know,28,Other,1
+301,500-1000,Yes,Easy,No,Maybe,Open,Yes,31,Male,1
+303,1-5,No,Difficult,Maybe,Maybe,Neutral,No,56,Male,0
+305,100-500,I don't know,I don't know,Maybe,Maybe,Not applicable (no mental illness),No,39,Male,0
+306,1-5,No,Difficult,Maybe,Maybe,Not open,Yes,21,Male,1
+307,500-1000,I don't know,Easy,No,No,Open,No,31,Female,0
+310,6-25,I don't know,Neither easy nor difficult,Maybe,No,Open,Yes,32,Female,1
+312,100-500,Yes,Easy,No,No,Open,No,34,Male,0
+313,6-25,Not eligible,Neither easy nor difficult,Maybe,No,Not open,Yes,35,Male,1
+314,26-100,No,Easy,No,No,Open,No,31,Male,0
+316,26-100,I don't know,Easy,No,Maybe,Open,No,36,Male,0
+317,26-100,Yes,Difficult,Maybe,No,Open,Yes,50,Male,1
+318,6-25,I don't know,Easy,No,No,Open,Yes,31,Male,1
+319,100-500,Yes,I don't know,Maybe,No,Open,Yes,47,Male,1
+320,6-25,I don't know,Difficult,Maybe,No,Open,No,32,Female,1
+321,26-100,Yes,Easy,No,Maybe,Open,Yes,23,Female,1
+322,6-25,Yes,Difficult,Maybe,No,Open,Yes,43,Female,1
+323,6-25,Yes,Neither easy nor difficult,No,Maybe,Open,Yes,26,Female,0
+324,26-100,I don't know,I don't know,No,No,Not open,Yes,26,Female,0
+325,6-25,Yes,Easy,No,Maybe,Open,No,55,Female,0
+326,6-25,Yes,Neither easy nor difficult,No,No,Open,No,27,Male,1
+327,100-500,Not eligible,Difficult,Maybe,No,Not open,Yes,34,Male,1
+328,26-100,No,Difficult,Yes,Maybe,Neutral,Yes,25,Male,0
+329,26-100,I don't know,Difficult,Yes,No,Open,No,35,Male,0
+331,26-100,Yes,Easy,No,No,Not open,I don't know,38,Female,1
+332,26-100,Yes,Difficult,Yes,No,Not open,I don't know,29,Male,1
+333,500-1000,Yes,Easy,Maybe,Maybe,Open,Yes,28,Male,1
+334,6-25,Not eligible,Easy,No,Maybe,Open,Yes,29,Male,1
+335,More than 1000,Yes,Easy,No,Yes,Not open,Yes,40,Male,0
+336,26-100,Yes,Easy,No,Maybe,Open,No,25,Female,1
+338,26-100,Yes,Easy,No,Maybe,Open,Yes,29,Female,0
+339,1-5,Yes,Easy,No,Maybe,Open,No,35,Male,1
+341,26-100,No,Difficult,No,Yes,Open,No,43,Male,1
+342,6-25,No,Easy,No,No,Open,No,26,Male,0
+343,100-500,I don't know,Easy,No,No,Not open,No,31,Male,1
+344,100-500,Yes,Easy,No,Yes,Open,Yes,31,Female,0
+345,More than 1000,I don't know,Difficult,Maybe,No,Not open,I don't know,45,Female,1
+346,More than 1000,No,Easy,Maybe,Maybe,Open,I don't know,23,Male,0
+347,6-25,I don't know,Neither easy nor difficult,Maybe,Maybe,Open,I don't know,39,Male,0
+348,26-100,Yes,Easy,No,Maybe,Open,Yes,27,Female,0
+349,100-500,Yes,Easy,Maybe,No,Open,Yes,28,Male,1
+350,500-1000,I don't know,I don't know,Maybe,No,Neutral,No,36,Male,0
+351,100-500,I don't know,Difficult,Maybe,No,Neutral,No,22,Male,0
+352,1-5,Yes,Neither easy nor difficult,No,No,Open,I don't know,51,Male,1
+355,More than 1000,Not eligible,Difficult,No,No,Open,Yes,28,Male,1
+356,100-500,I don't know,I don't know,Yes,No,Not open,No,40,Male,0
+357,26-100,Yes,Easy,No,No,Open,I don't know,35,Female,1
+358,100-500,Yes,Difficult,Yes,No,Open,Yes,38,Male,1
+359,100-500,Yes,I don't know,Yes,No,Neutral,Yes,29,Male,1
+361,500-1000,Yes,Easy,Maybe,No,Open,Yes,31,Female,1
+362,100-500,No,Difficult,Yes,No,Not applicable (no mental illness),No,45,Male,0
+363,100-500,I don't know,Easy,No,No,Open,Yes,26,Male,0
+364,100-500,Yes,Easy,No,Yes,Open,No,42,Male,0
+365,100-500,Yes,Easy,No,No,Not open,No,28,Female,0
+366,6-25,Not eligible,I don't know,Maybe,Maybe,Open,Yes,28,Male,0
+367,100-500,Yes,I don't know,Maybe,Yes,Open,Yes,39,Female,1
+368,6-25,Yes,Easy,Maybe,No,Open,No,34,Male,1
+369,26-100,I don't know,Easy,No,Maybe,Open,Yes,28,Female,1
+370,500-1000,Yes,Easy,Maybe,No,Not applicable (no mental illness),No,35,Female,0
+371,6-25,I don't know,Neither easy nor difficult,No,Yes,Open,No,42,Male,0
+372,6-25,Yes,Easy,No,Maybe,Open,Yes,33,Other,1
+375,26-100,Yes,I don't know,Maybe,No,Not applicable (no mental illness),Yes,28,Male,0
+376,500-1000,I don't know,Easy,Maybe,No,Not open,No,22,Female,0
+377,26-100,Yes,Neither easy nor difficult,Yes,No,Open,Yes,28,Female,1
+379,More than 1000,Yes,I don't know,Maybe,No,Open,Yes,21,Female,1
+380,26-100,No,Easy,Yes,Yes,Open,Yes,38,Male,1
+381,More than 1000,Yes,Easy,No,No,Open,Yes,33,Male,1
+382,100-500,Yes,Easy,No,No,Open,Yes,28,Female,1
+383,26-100,Yes,Easy,No,No,Open,I don't know,32,Male,1
+384,1-5,Not eligible,Difficult,Yes,No,Open,I don't know,24,Female,1
+385,500-1000,I don't know,Easy,Maybe,No,Open,Yes,35,Male,1
+388,More than 1000,I don't know,Difficult,Yes,No,Open,Yes,24,Female,1
+389,100-500,Yes,Easy,No,No,Open,Yes,30,Male,1
+390,100-500,Yes,I don't know,Yes,No,Open,No,47,Female,0
+391,More than 1000,Yes,Easy,Maybe,No,Open,No,26,Female,0
+392,100-500,Yes,Easy,No,No,Not open,I don't know,32,Male,1
+393,100-500,I don't know,Neither easy nor difficult,Maybe,No,Neutral,Yes,32,Male,0
+394,500-1000,I don't know,Easy,No,Yes,Open,I don't know,37,Male,1
+396,6-25,No,Easy,No,No,Not open,I don't know,28,Female,0
+397,26-100,I don't know,Easy,Maybe,No,Not open,No,22,Male,1
+398,500-1000,I don't know,Easy,No,No,Open,Yes,30,Male,1
+400,100-500,Yes,Easy,Maybe,Maybe,Not open,I don't know,34,Male,0
+401,6-25,Yes,Easy,Maybe,No,Open,No,32,Male,1
+402,100-500,No,Easy,Maybe,Maybe,Open,Yes,37,Male,1
+404,26-100,I don't know,Easy,Yes,No,Open,Yes,31,Male,1
+405,26-100,No,Easy,Maybe,No,Open,I don't know,26,Male,0
+407,100-500,Yes,I don't know,Maybe,No,Neutral,Yes,36,Male,1
+408,100-500,Yes,I don't know,Maybe,No,Not applicable (no mental illness),Yes,38,Male,1
+409,26-100,Yes,Easy,No,No,Open,No,24,Male,1
+410,100-500,I don't know,Difficult,Maybe,No,Neutral,I don't know,26,Male,0
+411,More than 1000,Yes,I don't know,Maybe,No,Open,Yes,37,Male,1
+412,26-100,I don't know,Neither easy nor difficult,No,No,Neutral,Yes,27,Female,1
+414,26-100,Yes,Easy,No,Maybe,Open,No,32,Male,1
+415,6-25,Yes,Neither easy nor difficult,No,Maybe,Open,I don't know,30,Male,1
+416,26-100,No,Difficult,No,No,Open,No,26,Female,1
+419,26-100,Not eligible,I don't know,No,Maybe,Open,Yes,29,Male,1
+420,26-100,Yes,I don't know,Maybe,Maybe,Open,Yes,26,Other,1
+421,100-500,Yes,Difficult,No,No,Not open,No,23,Female,0
+422,100-500,Yes,Easy,No,Yes,Not applicable (no mental illness),Yes,30,Male,1
+423,More than 1000,Yes,Difficult,Maybe,No,Not open,Yes,40,Male,0
+424,100-500,I don't know,Difficult,Maybe,No,Not open,I don't know,46,Male,1
+425,26-100,I don't know,I don't know,No,Maybe,Open,No,26,Male,0
+426,More than 1000,Yes,I don't know,Maybe,No,Neutral,I don't know,30,Male,0
+427,100-500,No,I don't know,Yes,No,Open,No,27,Female,0
+429,26-100,Yes,Neither easy nor difficult,Maybe,No,Open,Yes,26,Female,1
+430,100-500,I don't know,Easy,No,Maybe,Open,Yes,35,Male,0
+431,26-100,I don't know,Easy,No,Maybe,Not open,Yes,29,Male,1
+432,100-500,I don't know,Easy,No,No,Open,No,34,Male,1
+434,100-500,No,I don't know,Maybe,Maybe,Not open,No,39,Male,0
+435,100-500,I don't know,Easy,No,Maybe,Open,No,27,Male,0
+436,500-1000,No,Easy,No,No,Open,No,31,Male,1
+437,26-100,No,Difficult,Maybe,No,Not applicable (no mental illness),No,26,Male,0
+438,26-100,Yes,Neither easy nor difficult,Maybe,Maybe,Not open,Yes,44,Male,1
+439,100-500,Yes,Neither easy nor difficult,Maybe,No,Not applicable (no mental illness),No,27,Male,0
+440,100-500,Yes,Easy,No,No,Open,Yes,57,Female,1
+445,More than 1000,I don't know,Neither easy nor difficult,Yes,No,Open,I don't know,35,Male,1
+446,100-500,Yes,Difficult,Maybe,No,Open,I don't know,26,Male,1
+447,6-25,I don't know,Easy,No,Maybe,Open,No,22,Female,0
+448,100-500,I don't know,Easy,Maybe,No,Neutral,No,31,Male,0
+449,26-100,I don't know,Difficult,Maybe,No,Not applicable (no mental illness),No,31,Male,1
+451,More than 1000,Yes,Neither easy nor difficult,Maybe,No,Open,No,26,Male,1
+452,1-5,No,Difficult,Yes,No,Not open,Yes,36,Male,1
+453,26-100,Yes,Easy,No,No,Open,Yes,33,Male,1
+454,500-1000,Yes,Easy,No,No,Not open,Yes,24,Female,1
+455,6-25,No,Easy,Maybe,No,Not open,Yes,22,Male,0
+456,6-25,Yes,Difficult,No,No,Open,Yes,33,Male,1
+457,More than 1000,Yes,Easy,Maybe,No,Open,No,37,Female,1
+458,6-25,Yes,Easy,No,Maybe,Open,No,29,Male,0
+459,1-5,Not eligible,Neither easy nor difficult,No,No,Not applicable (no mental illness),I don't know,38,Male,1
+460,1-5,No,Neither easy nor difficult,Maybe,No,Open,Yes,33,Male,0
+461,1-5,I don't know,Neither easy nor difficult,Yes,No,Neutral,Yes,44,Female,1
+462,6-25,Yes,Easy,No,No,Open,Yes,23,Male,1
+464,More than 1000,I don't know,Difficult,Yes,No,Open,I don't know,30,Male,1
+465,26-100,Yes,Neither easy nor difficult,No,No,Not open,No,28,Male,0
+466,26-100,Yes,Easy,No,No,Not open,I don't know,39,Male,0
+467,6-25,No,Difficult,Yes,No,Open,Yes,24,Female,1
+469,More than 1000,Yes,Easy,No,No,Open,Yes,35,Male,1
+470,6-25,No,Neither easy nor difficult,No,Maybe,Neutral,Yes,23,Male,0
+471,More than 1000,Yes,Easy,No,Maybe,Not open,Yes,37,Male,0
+472,6-25,Yes,Easy,No,Maybe,Neutral,No,35,Male,0
+473,26-100,Yes,Neither easy nor difficult,No,Maybe,Neutral,I don't know,27,Male,0
+474,1-5,I don't know,Easy,No,Maybe,Not open,Yes,27,Female,0
+475,More than 1000,Yes,Difficult,Maybe,No,Neutral,No,27,Female,0
+476,6-25,I don't know,Easy,Maybe,No,Not open,Yes,42,Male,1
+477,6-25,Yes,Difficult,Maybe,No,Not applicable (no mental illness),Yes,32,Other,0
+478,6-25,I don't know,I don't know,No,Maybe,Not open,Yes,26,Male,1
+479,100-500,I don't know,Neither easy nor difficult,Yes,No,Not applicable (no mental illness),No,28,Male,0
+480,6-25,I don't know,I don't know,Yes,No,Open,No,28,Male,0
+481,100-500,Yes,I don't know,Maybe,No,Open,Yes,32,Male,1
+483,26-100,Yes,Neither easy nor difficult,Maybe,Maybe,Open,I don't know,34,Male,1
+484,6-25,I don't know,Neither easy nor difficult,Maybe,Maybe,Not open,No,61,Female,1
+487,6-25,Not eligible,I don't know,Yes,Yes,Open,Yes,51,Male,1
+489,500-1000,I don't know,Easy,No,Maybe,Open,Yes,34,Male,1
+490,6-25,No,Difficult,Maybe,Maybe,Open,No,43,Male,1
+491,100-500,Yes,Difficult,Yes,No,Not applicable (no mental illness),No,43,Female,0
+492,6-25,No,Difficult,Maybe,No,Open,Yes,44,Male,1
+493,100-500,I don't know,Easy,Maybe,No,Neutral,I don't know,35,Male,1
+494,26-100,Yes,Easy,No,Maybe,Open,No,50,Male,0
+495,100-500,Yes,Difficult,Maybe,Maybe,Neutral,No,29,Male,1
+496,100-500,Yes,Easy,No,Maybe,Open,Yes,29,Male,1
+497,500-1000,Yes,Easy,Maybe,Maybe,Open,I don't know,36,Male,0
+500,More than 1000,I don't know,I don't know,Maybe,No,Open,No,46,Male,1
+502,More than 1000,Yes,Difficult,Yes,No,Not open,Yes,23,Other,1
+503,6-25,I don't know,Neither easy nor difficult,Maybe,No,Neutral,I don't know,41,Male,1
+504,More than 1000,Yes,Easy,No,No,Neutral,No,31,Male,0
+505,1-5,No,Difficult,Yes,No,Open,Yes,55,Male,1
+506,26-100,No,Difficult,Yes,No,Neutral,No,34,Male,0
+507,6-25,Yes,Difficult,No,Maybe,Open,Yes,28,Female,1
+508,6-25,Yes,Difficult,No,No,Open,Yes,33,Male,1
+509,100-500,Yes,Neither easy nor difficult,Yes,No,Open,Yes,29,Male,1
+510,More than 1000,Yes,Difficult,No,No,Open,Yes,33,Female,1
+512,More than 1000,Yes,I don't know,Maybe,No,Open,Yes,28,Male,1
+513,26-100,Yes,I don't know,No,No,Open,Yes,32,Male,1
+514,6-25,Yes,Neither easy nor difficult,No,No,Not open,Yes,36,Female,1
+515,More than 1000,I don't know,Easy,Yes,No,Not open,No,45,Male,0
+517,More than 1000,No,Easy,Maybe,Yes,Not applicable (no mental illness),No,23,Male,0
+520,26-100,I don't know,I don't know,Yes,No,Open,Yes,29,Female,1
+521,26-100,Not eligible,Neither easy nor difficult,Maybe,No,Not open,I don't know,31,Male,1
+523,6-25,No,Difficult,Yes,No,Open,Yes,29,Male,1
+525,26-100,I don't know,Easy,No,Maybe,Open,No,30,Male,1
+526,More than 1000,Yes,Easy,No,No,Open,No,55,Male,1
+527,6-25,I don't know,Neither easy nor difficult,Maybe,No,Open,Yes,38,Female,1
+528,6-25,I don't know,Easy,Yes,No,Open,I don't know,20,Male,0
+529,100-500,No,Neither easy nor difficult,No,Yes,Open,Yes,25,Male,1
+532,26-100,I don't know,Difficult,Maybe,No,Neutral,I don't know,27,Male,1
+533,6-25,No,Easy,Maybe,Maybe,Not open,Yes,24,Male,1
+535,26-100,I don't know,Neither easy nor difficult,No,No,Not open,I don't know,29,Male,0
+536,26-100,No,Easy,Yes,No,Open,Yes,40,Female,1
+537,1-5,No,Difficult,Maybe,No,Not open,Yes,30,Male,1
+538,26-100,Yes,Easy,Maybe,No,Open,No,32,Male,0
+540,6-25,Yes,Easy,No,Yes,Neutral,No,35,Female,1
+542,6-25,No,I don't know,Maybe,No,Neutral,Yes,36,Male,1
+543,26-100,I don't know,Neither easy nor difficult,No,Maybe,Open,I don't know,26,Male,0
+544,500-1000,I don't know,Easy,Maybe,Maybe,Open,Yes,31,Female,1
+545,26-100,Not eligible,Easy,No,Maybe,Open,Yes,33,Male,0
+547,26-100,I don't know,Easy,Maybe,Maybe,Not open,No,46,Male,1
+548,100-500,No,Neither easy nor difficult,Maybe,Maybe,Open,Yes,32,Male,1
+549,100-500,Yes,Easy,Maybe,No,Neutral,No,34,Male,0
+550,100-500,I don't know,Easy,No,Maybe,Open,Yes,41,Male,1
+551,100-500,I don't know,Easy,No,Maybe,Open,No,32,Male,0
+552,More than 1000,Yes,Difficult,Maybe,No,Open,Yes,47,Male,1
+553,100-500,I don't know,Easy,No,No,Not applicable (no mental illness),Yes,29,Male,0
+554,100-500,Yes,I don't know,Maybe,Maybe,Open,I don't know,36,Male,1
+555,100-500,No,Difficult,Yes,No,Open,Yes,32,Male,1
+556,100-500,I don't know,Neither easy nor difficult,No,No,Open,Yes,29,Male,1
+557,1-5,Not eligible,Easy,No,No,Open,No,22,Male,0
+558,More than 1000,Yes,Easy,Yes,No,Open,Yes,32,Female,1
+559,More than 1000,Yes,Neither easy nor difficult,No,Maybe,Not open,No,19,Female,0
+560,6-25,No,Easy,No,Yes,Not applicable (no mental illness),No,30,Male,0
+561,6-25,I don't know,Easy,No,Yes,Open,Yes,32,Other,1
+562,More than 1000,I don't know,Easy,No,Maybe,Not open,No,22,Male,0
+564,100-500,Yes,I don't know,No,Maybe,Neutral,Yes,33,Male,0
+565,6-25,No,I don't know,No,No,Open,No,33,Male,0
+566,6-25,No,Difficult,Yes,No,Not open,No,48,Female,1
+567,More than 1000,No,Difficult,Maybe,Maybe,Not open,No,45,Male,1
+568,26-100,I don't know,Easy,No,Maybe,Open,Yes,28,Male,1
+569,100-500,I don't know,Difficult,No,No,Not open,Yes,44,Male,1
+570,6-25,No,Difficult,Maybe,No,Open,No,31,Male,0
+571,26-100,Yes,Easy,No,No,Open,I don't know,31,Female,1
+572,More than 1000,Yes,Easy,No,Maybe,Open,No,29,Male,0
+573,More than 1000,Yes,I don't know,Maybe,Maybe,Open,No,26,Male,0
+574,100-500,Yes,Neither easy nor difficult,No,No,Open,Yes,35,Female,1
+576,6-25,Yes,I don't know,Yes,No,Open,Yes,45,Male,1
+577,6-25,Yes,Easy,No,Maybe,Open,Yes,22,Female,1
+578,100-500,Yes,I don't know,No,Maybe,Open,I don't know,34,Male,0
+579,26-100,I don't know,Easy,Maybe,Maybe,Open,I don't know,35,Male,0
+581,6-25,Not eligible,Difficult,Yes,No,Open,Yes,26,Male,1
+583,More than 1000,Not eligible,Difficult,Yes,No,Open,Yes,24,Male,1
+584,6-25,I don't know,Easy,No,Maybe,Neutral,Yes,24,Male,1
+585,26-100,Yes,Neither easy nor difficult,No,No,Open,No,34,Male,1
+586,26-100,No,Easy,No,Maybe,Open,No,36,Male,0
+587,500-1000,Yes,Difficult,Yes,No,Open,Yes,41,Male,1
+588,More than 1000,Not eligible,Easy,Maybe,No,Open,No,21,Male,1
+589,100-500,I don't know,Easy,Maybe,Maybe,Open,I don't know,33,Male,1
+590,More than 1000,I don't know,Easy,No,Yes,Open,Yes,32,Male,1
+591,More than 1000,Yes,Neither easy nor difficult,No,No,Open,I don't know,62,Female,1
+592,26-100,Yes,Difficult,Maybe,Maybe,Open,Yes,37,Male,1
+593,26-100,I don't know,Easy,No,Yes,Open,I don't know,32,Male,0
+594,More than 1000,Yes,Difficult,Maybe,No,Neutral,No,31,Male,1
+595,6-25,I don't know,Neither easy nor difficult,Maybe,No,Open,Yes,28,Male,1
+598,26-100,Yes,Easy,No,Maybe,Not open,No,29,Male,1
+599,26-100,Yes,I don't know,Maybe,No,Neutral,I don't know,33,Male,1
+600,26-100,I don't know,Easy,No,Maybe,Not applicable (no mental illness),Yes,27,Male,0
+601,26-100,Not eligible,Easy,No,Yes,Neutral,No,24,Male,0
+603,1-5,Yes,Easy,No,Yes,Open,Yes,42,Male,1
+604,26-100,No,I don't know,No,No,Not applicable (no mental illness),No,28,Male,0
+605,500-1000,I don't know,Difficult,Maybe,Maybe,Open,Yes,40,Male,1
+606,More than 1000,Yes,Easy,Maybe,No,Not open,Yes,32,Female,1
+609,6-25,Yes,Easy,Maybe,No,Open,Yes,26,Male,1
+610,100-500,I don't know,Easy,Maybe,No,Open,Yes,39,Female,1
+611,500-1000,Not eligible,Easy,No,No,Open,No,38,Male,0
+612,More than 1000,Yes,Difficult,Yes,No,Not open,Yes,34,Male,0
+613,26-100,I don't know,Difficult,Maybe,Maybe,Open,I don't know,44,Male,1
+615,100-500,Yes,Easy,No,Yes,Open,No,24,Male,0
+616,6-25,Yes,Easy,No,Yes,Open,Yes,31,Male,1
+617,More than 1000,Yes,Difficult,Yes,No,Open,Yes,47,Male,1
+618,More than 1000,Not eligible,Easy,No,Yes,Open,Yes,30,Male,1
+620,6-25,Yes,Easy,No,No,Open,Yes,29,Other,1
+621,More than 1000,Yes,Difficult,Maybe,Maybe,Open,No,27,Male,0
+622,More than 1000,Yes,Neither easy nor difficult,No,No,Open,No,29,Male,1
+624,100-500,Yes,Difficult,Maybe,No,Neutral,Yes,31,Other,1
+625,6-25,I don't know,I don't know,Yes,Maybe,Neutral,No,27,Male,0
+626,6-25,No,Difficult,Maybe,Maybe,Open,No,29,Male,1
+627,6-25,Not eligible,Easy,No,No,Not applicable (no mental illness),No,29,Male,0
+628,More than 1000,Yes,Difficult,Maybe,No,Not open,I don't know,42,Male,0
+629,6-25,Yes,Difficult,Maybe,No,Open,Yes,26,Female,0
+630,6-25,I don't know,Easy,No,Maybe,Open,Yes,26,Male,1
+632,100-500,Yes,Difficult,Maybe,No,Open,I don't know,24,Male,0
+633,More than 1000,Yes,Difficult,Yes,Maybe,Not open,No,25,Male,0
+634,6-25,Yes,Easy,No,Maybe,Open,No,22,Male,0
+635,100-500,Yes,Neither easy nor difficult,Maybe,Maybe,Open,Yes,33,Male,1
+636,26-100,Yes,Easy,No,Yes,Open,No,53,Male,0
+637,26-100,Yes,Easy,Maybe,Maybe,Open,Yes,32,Male,1
+638,6-25,No,Neither easy nor difficult,Maybe,No,Open,No,32,Male,1
+640,6-25,I don't know,Difficult,Maybe,Yes,Open,No,27,Male,1
+641,6-25,Not eligible,Easy,Maybe,No,Not open,I don't know,34,Male,0
+642,6-25,No,Difficult,Maybe,No,Open,Yes,26,Male,1
+644,More than 1000,Yes,Difficult,Maybe,Maybe,Open,Yes,39,Male,1
+645,26-100,I don't know,Easy,No,No,Open,No,32,Male,1
+648,500-1000,I don't know,I don't know,Yes,No,Not open,Yes,33,Other,1
+649,26-100,Yes,I don't know,Maybe,No,Not open,No,58,Male,0
+650,6-25,No,Difficult,Yes,No,Open,No,30,Male,1
+652,More than 1000,I don't know,I don't know,Maybe,No,Not open,Yes,45,Male,0
+653,1-5,No,Difficult,Yes,No,Not open,Yes,26,Female,1
+654,100-500,Yes,I don't know,Yes,No,Open,Yes,22,Male,1
+655,6-25,I don't know,Easy,Yes,Yes,Open,Yes,21,Male,0
+656,More than 1000,Yes,Easy,Maybe,No,Open,I don't know,33,Male,1
+657,500-1000,I don't know,I don't know,No,No,Open,No,34,Male,0
+658,26-100,I don't know,Easy,No,No,Not open,No,25,Female,0
+659,6-25,Yes,Easy,No,No,Open,Yes,27,Male,1
+660,26-100,Yes,Neither easy nor difficult,Yes,No,Not open,Yes,25,Female,1
+661,500-1000,Yes,Neither easy nor difficult,No,Yes,Open,I don't know,33,Male,1
+663,6-25,No,Easy,Maybe,No,Not applicable (no mental illness),Yes,36,Female,0
+664,6-25,No,Neither easy nor difficult,Yes,No,Open,I don't know,26,Male,1
+665,6-25,Not eligible,Neither easy nor difficult,No,Yes,Open,I don't know,34,Male,0
+666,26-100,Yes,Difficult,Yes,No,Open,Yes,34,Male,1
+667,More than 1000,Yes,Neither easy nor difficult,Maybe,No,Open,I don't know,25,Male,1
+669,26-100,No,Difficult,Maybe,No,Not open,Yes,27,Female,0
+670,26-100,I don't know,Difficult,Maybe,No,Open,No,24,Female,1
+671,More than 1000,Yes,Difficult,Maybe,No,Open,Yes,47,Female,1
+672,26-100,Yes,Easy,No,Maybe,Open,No,37,Male,0
+673,More than 1000,I don't know,Neither easy nor difficult,Yes,No,Open,I don't know,35,Other,1
+674,100-500,Yes,Difficult,Yes,No,Not open,I don't know,30,Male,1
+675,More than 1000,Yes,Easy,Maybe,No,Open,No,42,Male,0
+677,100-500,Yes,Easy,No,No,Open,I don't know,31,Male,0
+678,100-500,Yes,Easy,Maybe,No,Open,I don't know,28,Female,0
+679,26-100,Yes,Neither easy nor difficult,Maybe,No,Open,I don't know,36,Female,1
+680,6-25,Yes,Difficult,Yes,No,Open,Yes,36,Female,1
+681,26-100,I don't know,I don't know,No,No,Neutral,Yes,32,Male,1
+683,100-500,Yes,Easy,Maybe,No,Neutral,No,41,Female,0
+684,26-100,Yes,Easy,No,Maybe,Not open,No,36,Male,0
+685,26-100,Yes,Neither easy nor difficult,Yes,No,Open,Yes,23,Male,1
+686,More than 1000,Yes,Neither easy nor difficult,No,No,Open,Yes,54,Female,1
+687,26-100,I don't know,Neither easy nor difficult,Maybe,Maybe,Not applicable (no mental illness),No,34,Female,0
+688,6-25,I don't know,Easy,Yes,No,Open,No,36,Male,0
+689,1-5,Yes,Neither easy nor difficult,Maybe,No,Open,Yes,27,Male,0
+690,100-500,Yes,Easy,Maybe,No,Open,Yes,32,Male,1
+691,6-25,Yes,Difficult,Yes,Maybe,Not open,I don't know,21,Male,1
+692,1-5,I don't know,Easy,No,Yes,Open,No,44,Male,0
+693,26-100,I don't know,Neither easy nor difficult,No,No,Not open,I don't know,33,Male,0
+694,More than 1000,Yes,Difficult,Maybe,No,Not open,Yes,38,Male,1
+695,More than 1000,Yes,I don't know,Maybe,No,Open,Yes,38,Male,0
+697,1-5,I don't know,Difficult,Maybe,Yes,Not applicable (no mental illness),I don't know,22,Female,1
+699,More than 1000,I don't know,Difficult,Maybe,Maybe,Not applicable (no mental illness),Yes,27,Female,0
+701,6-25,No,Difficult,Maybe,No,Open,Yes,66,Male,1
+702,1-5,I don't know,Difficult,Maybe,No,Not applicable (no mental illness),Yes,25,Male,1
+703,26-100,Not eligible,Neither easy nor difficult,Maybe,No,Neutral,I don't know,22,Male,0
+704,26-100,No,Easy,No,Maybe,Not open,No,29,Male,0
+705,100-500,No,Easy,Yes,Maybe,Not open,No,33,Male,1
+706,6-25,No,Difficult,Maybe,No,Not open,I don't know,27,Male,0
+707,6-25,I don't know,Difficult,Yes,Maybe,Not open,I don't know,44,Male,1
+709,6-25,I don't know,I don't know,Maybe,No,Open,No,32,Male,0
+710,500-1000,Yes,Difficult,Yes,No,Not open,No,59,Female,0
+713,More than 1000,Yes,Neither easy nor difficult,No,Yes,Open,Yes,32,Male,1
+714,More than 1000,Not eligible,Difficult,Yes,Maybe,Not open,I don't know,41,Male,0
+715,1-5,No,Easy,No,Maybe,Open,Yes,38,Female,1
+717,More than 1000,No,Difficult,No,Maybe,Open,Yes,43,Male,1
+718,100-500,Yes,Easy,No,No,Not open,Yes,29,Female,1
+720,100-500,I don't know,Easy,No,No,Neutral,No,25,Female,0
+721,26-100,Yes,Easy,No,No,Neutral,No,49,Male,0
+722,26-100,No,I don't know,Yes,No,Open,Yes,36,Male,1
+724,26-100,I don't know,Difficult,Maybe,No,Open,Yes,28,Male,0
+725,More than 1000,I don't know,Difficult,Maybe,No,Not open,Yes,37,Male,1
+726,6-25,Not eligible,Difficult,Yes,No,Neutral,Yes,23,Female,0
+729,More than 1000,Yes,Neither easy nor difficult,No,No,Not open,Yes,32,Male,1
+730,1-5,No,Difficult,No,Maybe,Not open,I don't know,28,Male,0
+731,More than 1000,I don't know,Neither easy nor difficult,No,No,Neutral,Yes,28,Male,1
+732,More than 1000,Yes,Easy,Maybe,No,Open,Yes,29,Male,1
+733,100-500,I don't know,I don't know,No,No,Open,No,35,Male,0
+737,500-1000,Not eligible,Easy,No,Maybe,Open,I don't know,35,Male,0
+738,More than 1000,Yes,Easy,No,Maybe,Open,I don't know,31,Male,0
+740,More than 1000,Yes,Easy,No,Yes,Open,No,37,Male,0
+741,6-25,I don't know,Easy,No,Maybe,Open,Yes,34,Female,1
+742,26-100,Yes,Easy,No,Maybe,Open,Yes,39,Female,1
+744,100-500,Yes,Difficult,Maybe,No,Open,Yes,29,Female,1
+745,More than 1000,Yes,Easy,No,Maybe,Open,Yes,63,Male,1
+750,More than 1000,No,Difficult,Yes,No,Not open,Yes,28,Other,1
+754,6-25,No,Easy,No,Yes,Neutral,No,19,Male,0
+755,More than 1000,Yes,Easy,Maybe,No,Open,Yes,40,Male,0
+756,More than 1000,Yes,Easy,Maybe,Maybe,Open,Yes,49,Female,1
+757,6-25,Not eligible,Easy,No,Maybe,Not applicable (no mental illness),I don't know,27,Female,0
+758,More than 1000,Yes,Easy,Maybe,No,Open,Yes,39,Male,1
+759,More than 1000,I don't know,Neither easy nor difficult,No,Yes,Open,No,35,Male,1
+760,26-100,I don't know,I don't know,Maybe,Maybe,Open,I don't know,35,Male,0
+761,26-100,Yes,Difficult,Maybe,No,Open,I don't know,42,Female,1
+762,6-25,Yes,Easy,No,Yes,Open,No,35,Male,0
+763,100-500,I don't know,Difficult,No,No,Open,I don't know,31,Female,1
+765,100-500,Yes,I don't know,Maybe,Maybe,Not open,I don't know,39,Male,1
+767,More than 1000,I don't know,Easy,Maybe,Maybe,Open,No,45,Male,0
+770,26-100,No,Difficult,Maybe,No,Not open,Yes,29,Male,1
+771,6-25,Yes,I don't know,No,No,Open,Yes,20,Male,1
+772,100-500,Not eligible,Difficult,Yes,No,Not applicable (no mental illness),Yes,34,Male,0
+773,500-1000,Not eligible,Easy,No,No,Open,No,33,Other,1
+776,100-500,Yes,I don't know,Yes,No,Neutral,Yes,31,Male,1
+777,More than 1000,Yes,Easy,Maybe,No,Open,Yes,36,Male,1
+778,100-500,Yes,Easy,Maybe,Yes,Open,Yes,30,Male,0
+779,More than 1000,Yes,Neither easy nor difficult,Maybe,No,Not open,Yes,44,Female,1
+780,1-5,I don't know,Easy,Maybe,No,Not open,I don't know,23,Female,1
+781,More than 1000,Yes,I don't know,Maybe,No,Open,No,46,Male,0
+782,100-500,Yes,Easy,No,No,Open,Yes,33,Female,1
+783,500-1000,Yes,Easy,Yes,No,Not applicable (no mental illness),Yes,32,Female,1
+785,6-25,No,Neither easy nor difficult,No,Maybe,Open,I don't know,26,Male,1
+787,More than 1000,I don't know,Easy,No,No,Not open,No,28,Male,0
+790,More than 1000,Yes,Difficult,Maybe,No,Open,No,30,Male,0
+791,6-25,I don't know,Difficult,Yes,No,Not open,Yes,28,Female,1
+792,100-500,Yes,Easy,No,Maybe,Open,Yes,31,Male,1
+793,100-500,Yes,Difficult,Maybe,No,Not open,I don't know,29,Male,0
+794,26-100,I don't know,Easy,Maybe,No,Not open,No,33,Male,0
+795,More than 1000,Yes,I don't know,Maybe,No,Not open,Yes,43,Female,1
+796,100-500,I don't know,Easy,No,No,Open,No,28,Male,0
+798,100-500,Yes,Neither easy nor difficult,Maybe,No,Open,Yes,38,Male,1
+799,6-25,Yes,Easy,Maybe,No,Open,No,30,Male,1
+801,26-100,I don't know,Easy,Maybe,No,Not applicable (no mental illness),No,48,Female,0
+803,6-25,No,Neither easy nor difficult,Yes,No,Open,No,28,Male,0
+804,100-500,Yes,Easy,Maybe,No,Open,Yes,37,Male,1
+805,More than 1000,Yes,Neither easy nor difficult,Maybe,No,Open,I don't know,33,Male,1
+806,6-25,Not eligible,Difficult,Yes,No,Not open,No,21,Male,1
+807,26-100,Yes,Difficult,Yes,No,Open,Yes,25,Male,1
+809,100-500,Yes,Difficult,Maybe,No,Open,Yes,40,Male,1
+810,100-500,No,Neither easy nor difficult,Maybe,No,Open,Yes,30,Female,1
+812,1-5,No,Easy,No,Yes,Open,No,25,Male,0
+813,More than 1000,Yes,Easy,Maybe,No,Open,No,38,Male,0
+814,100-500,I don't know,I don't know,Maybe,Maybe,Open,Yes,24,Male,1
+815,6-25,Not eligible,Difficult,No,Maybe,Neutral,No,23,Male,0
+817,6-25,I don't know,Neither easy nor difficult,Maybe,No,Open,No,26,Male,0
+818,More than 1000,I don't know,Neither easy nor difficult,Maybe,Maybe,Open,No,43,Male,0
+819,6-25,I don't know,Easy,No,Maybe,Open,Yes,30,Male,0
+821,26-100,I don't know,Difficult,Maybe,No,Not open,I don't know,40,Male,0
+822,26-100,Yes,Difficult,Maybe,No,Open,Yes,33,Female,1
+824,6-25,No,I don't know,Yes,Maybe,Not applicable (no mental illness),I don't know,22,Male,0
+825,100-500,Yes,I don't know,Maybe,Maybe,Open,Yes,28,Male,1
+826,More than 1000,Yes,Difficult,Maybe,No,Open,Yes,39,Male,1
+827,100-500,I don't know,Easy,No,Maybe,Open,I don't know,33,Male,0
+829,6-25,I don't know,I don't know,No,No,Not applicable (no mental illness),No,37,Male,0
+830,500-1000,I don't know,I don't know,Maybe,Maybe,Open,Yes,41,Female,1
+831,More than 1000,Yes,Easy,No,Maybe,Open,Yes,30,Female,0
+832,More than 1000,Yes,Easy,No,Maybe,Open,Yes,42,Male,0
+833,6-25,Yes,Difficult,No,Maybe,Open,No,52,Male,0
+834,26-100,No,Easy,No,Maybe,Open,No,30,Male,0
+835,500-1000,Yes,Neither easy nor difficult,No,Maybe,Open,I don't know,35,Male,1
+836,26-100,I don't know,I don't know,No,No,Open,No,24,Male,1
+837,6-25,I don't know,Easy,No,No,Open,I don't know,39,Male,0
+838,6-25,Yes,Difficult,Yes,Maybe,Not applicable (no mental illness),Yes,34,Male,0
+841,26-100,No,Difficult,Yes,No,Neutral,I don't know,43,Male,0
+842,6-25,Yes,Difficult,No,No,Not open,No,39,Male,1
+844,26-100,Yes,Easy,No,Yes,Open,Yes,34,Male,1
+845,More than 1000,Yes,Easy,Maybe,No,Open,No,38,Male,0
+846,100-500,Yes,Easy,Yes,No,Open,I don't know,26,Female,1
+847,6-25,No,Neither easy nor difficult,Maybe,Maybe,Open,Yes,24,Male,0
+848,More than 1000,I don't know,Difficult,Yes,No,Open,Yes,27,Female,1
+849,6-25,Yes,Neither easy nor difficult,No,No,Open,No,25,Male,1
+851,More than 1000,Yes,Neither easy nor difficult,Maybe,No,Open,Yes,33,Male,0
+852,26-100,No,Difficult,Yes,Maybe,Open,No,34,Male,1
+853,26-100,I don't know,Difficult,Maybe,No,Open,I don't know,27,Male,1
+854,100-500,Yes,Easy,Maybe,No,Open,Yes,33,Male,1
+855,6-25,Yes,Easy,Maybe,Maybe,Open,Yes,50,Male,1
+857,More than 1000,Yes,Difficult,Yes,No,Neutral,I don't know,32,Female,1
+858,6-25,I don't know,Easy,No,Maybe,Neutral,No,39,Male,0
+859,6-25,I don't know,Easy,No,Maybe,Open,No,36,Male,0
+860,100-500,I don't know,Easy,Maybe,No,Open,No,34,Male,0
+861,100-500,I don't know,I don't know,Maybe,No,Open,Yes,31,Female,1
+862,More than 1000,No,Easy,No,Maybe,Not open,Yes,36,Male,1
+863,More than 1000,I don't know,Easy,No,No,Not open,I don't know,48,Male,0
+864,6-25,I don't know,Easy,No,No,Not open,Yes,31,Male,1
+865,1-5,No,Easy,No,Maybe,Open,No,32,Male,0
+866,100-500,I don't know,Difficult,Yes,No,Neutral,No,32,Male,0
+868,1-5,Not eligible,Easy,No,No,Open,Yes,28,Female,1
+869,More than 1000,I don't know,Difficult,Yes,No,Not open,Yes,28,Male,1
+870,26-100,Yes,Easy,Yes,No,Open,Yes,33,Female,1
+874,100-500,I don't know,Difficult,Yes,No,Not open,I don't know,37,Male,1
+875,6-25,I don't know,Easy,Maybe,No,Open,No,27,Female,1
+876,More than 1000,No,I don't know,No,No,Open,No,39,Male,0
+878,More than 1000,Yes,Easy,Maybe,No,Open,I don't know,34,Female,0
+880,6-25,Not eligible,Easy,No,No,Neutral,I don't know,31,Female,0
+881,More than 1000,Yes,Easy,Yes,No,Not open,Yes,39,Male,0
+882,26-100,I don't know,Difficult,Maybe,Maybe,Not open,Yes,46,Male,1
+883,More than 1000,I don't know,Easy,No,Yes,Open,No,28,Male,0
+884,26-100,I don't know,Neither easy nor difficult,Maybe,Maybe,Open,No,32,Male,0
+889,26-100,I don't know,Easy,No,Yes,Open,No,51,Male,1
+890,500-1000,I don't know,Neither easy nor difficult,No,Maybe,Open,I don't know,29,Male,1
+893,1-5,No,Easy,No,Yes,Neutral,Yes,32,Male,0
+895,More than 1000,Not eligible,Neither easy nor difficult,Maybe,Maybe,Neutral,Yes,52,Male,1
+898,More than 1000,Yes,Difficult,Yes,Maybe,Neutral,I don't know,35,Male,1
+903,26-100,No,Neither easy nor difficult,Maybe,No,Not open,No,38,Male,0
+904,6-25,I don't know,Difficult,Maybe,No,Not open,No,27,Male,0
+905,6-25,I don't know,I don't know,No,No,Not open,Yes,40,Female,0
+906,500-1000,Not eligible,Difficult,Yes,No,Neutral,No,32,Male,0
+908,100-500,Yes,Difficult,Maybe,No,Open,I don't know,28,Female,0
+910,More than 1000,No,Easy,Maybe,No,Open,Yes,42,Male,0
+911,1-5,No,Easy,Maybe,No,Open,Yes,31,Male,1
+913,6-25,No,Easy,No,No,Open,Yes,35,Male,1
+915,26-100,Not eligible,Easy,No,No,Open,Yes,35,Male,1
+916,26-100,Yes,Easy,Maybe,Maybe,Open,Yes,24,Male,1
+917,6-25,No,I don't know,Maybe,No,Neutral,No,23,Male,0
+919,6-25,No,Easy,No,No,Open,No,38,Male,0
+923,26-100,I don't know,Easy,No,Yes,Not open,No,33,Male,0
+924,26-100,I don't know,Easy,No,Yes,Open,No,35,Male,0
+926,100-500,I don't know,I don't know,No,Maybe,Neutral,I don't know,30,Female,0
+928,500-1000,I don't know,Easy,No,No,Not open,Yes,28,Male,0
+929,6-25,No,Easy,No,Maybe,Open,I don't know,39,Male,0
+930,1-5,No,Easy,Maybe,Maybe,Open,Yes,21,Other,1
+931,6-25,Yes,Easy,Maybe,Maybe,Open,Yes,31,Male,0
+932,More than 1000,I don't know,Easy,Yes,No,Open,No,30,Male,0
+933,26-100,Yes,Difficult,Maybe,No,Not applicable (no mental illness),No,25,Female,0
+934,6-25,Not eligible,Difficult,Maybe,Maybe,Not applicable (no mental illness),No,26,Male,0
+935,26-100,Yes,Easy,No,No,Open,No,30,Male,0
+936,500-1000,No,Easy,No,No,Open,No,30,Male,0
+937,100-500,I don't know,Easy,No,Maybe,Not applicable (no mental illness),No,31,Male,0
+938,100-500,I don't know,I don't know,Maybe,No,Open,Yes,32,Male,1
+939,26-100,No,Difficult,No,Maybe,Neutral,Yes,45,Female,1
+941,26-100,Yes,Easy,Maybe,No,Not open,Yes,27,Male,1
+942,26-100,Not eligible,Easy,No,No,Not open,I don't know,28,Female,0
+943,500-1000,Yes,Difficult,Maybe,Maybe,Not open,Yes,38,Male,0
+944,500-1000,Yes,Easy,Maybe,No,Open,Yes,38,Male,1
+945,More than 1000,I don't know,Easy,No,Yes,Open,Yes,34,Male,1
+947,6-25,I don't know,Easy,No,No,Open,No,23,Male,0
+948,100-500,Yes,Neither easy nor difficult,Yes,No,Open,Yes,40,Female,1
+950,26-100,I don't know,Difficult,Maybe,No,Not open,Yes,28,Male,1
+951,6-25,I don't know,I don't know,No,Maybe,Not applicable (no mental illness),No,33,Male,0
+953,More than 1000,Yes,Easy,Maybe,No,Not open,Yes,32,Male,0
+954,More than 1000,Yes,Easy,No,Maybe,Open,Yes,27,Male,1
+955,100-500,No,I don't know,Yes,Maybe,Open,No,33,Male,1
+956,100-500,I don't know,Difficult,Maybe,No,Open,Yes,34,Male,0
+958,More than 1000,Yes,I don't know,Maybe,No,Not applicable (no mental illness),I don't know,35,Male,0
+959,26-100,Yes,Neither easy nor difficult,Maybe,No,Open,No,39,Male,0
+960,More than 1000,Yes,Easy,No,No,Open,No,35,Male,0
+961,100-500,I don't know,Easy,No,No,Open,No,34,Male,0
+963,500-1000,Yes,Easy,No,No,Open,No,42,Male,1
+964,6-25,Yes,I don't know,Maybe,No,Not open,No,30,Male,0
+965,26-100,Yes,Difficult,Yes,No,Open,Yes,55,Male,0
+966,26-100,No,Easy,Maybe,No,Open,Yes,46,Male,1
+967,100-500,Yes,Difficult,No,No,Open,Yes,33,Male,1
+968,26-100,Yes,Neither easy nor difficult,Maybe,Yes,Neutral,Yes,30,Male,1
+969,26-100,No,Easy,No,Yes,Open,Yes,30,Male,1
+970,More than 1000,Yes,I don't know,Yes,No,Open,I don't know,31,Female,1
+971,More than 1000,Yes,Easy,Maybe,Maybe,Open,No,38,Male,1
+972,100-500,Yes,Difficult,Yes,No,Open,Yes,30,Female,0
+973,500-1000,Yes,Easy,No,No,Open,Yes,32,Male,1
+974,More than 1000,No,Neither easy nor difficult,Yes,No,Open,I don't know,32,Male,1
+975,26-100,Yes,Difficult,Maybe,Maybe,Open,Yes,47,Male,1
+976,6-25,No,Easy,No,Maybe,Not open,I don't know,39,Male,0
+977,100-500,I don't know,Difficult,Yes,No,Not open,Yes,35,Male,1
+978,100-500,Yes,Difficult,Yes,No,Open,No,36,Male,1
+979,100-500,Yes,I don't know,Maybe,Maybe,Not open,No,38,Female,0
+980,100-500,I don't know,I don't know,Maybe,No,Open,I don't know,30,Male,1
+981,26-100,I don't know,Easy,Maybe,Maybe,Open,Yes,33,Male,1
+982,6-25,I don't know,I don't know,Yes,Maybe,Not open,Yes,22,Male,0
+984,26-100,I don't know,Neither easy nor difficult,Maybe,Maybe,Open,I don't know,26,Male,1
+985,100-500,Yes,Neither easy nor difficult,No,Maybe,Open,No,34,Male,1
+987,100-500,No,I don't know,Yes,No,Not open,No,37,Male,0
+988,1-5,No,Easy,Maybe,Yes,Neutral,No,43,Male,0
+990,500-1000,I don't know,Neither easy nor difficult,Maybe,No,Open,Yes,30,Female,1
+991,More than 1000,Yes,Difficult,No,Maybe,Not applicable (no mental illness),Yes,32,Male,0
+992,More than 1000,Yes,Neither easy nor difficult,Maybe,Maybe,Open,No,35,Male,0
+993,26-100,Yes,Neither easy nor difficult,No,No,Open,No,29,Male,0
+994,500-1000,No,Easy,No,Yes,Neutral,I don't know,29,Male,0
+995,More than 1000,Yes,I don't know,Maybe,No,Open,I don't know,30,Male,0
+996,100-500,I don't know,Difficult,Maybe,No,Open,Yes,30,Male,0
+997,100-500,Yes,Easy,No,Yes,Open,Yes,38,Male,1
+998,26-100,Yes,Easy,Maybe,Yes,Open,Yes,30,Male,1
+999,26-100,No,Easy,No,Yes,Not open,Yes,26,Male,0
+1001,1-5,No,Easy,No,Maybe,Open,No,24,Male,0
+1002,100-500,Yes,Difficult,Yes,No,Not open,No,35,Male,0
+1003,More than 1000,Yes,Easy,Maybe,No,Open,No,38,Male,1
+1004,100-500,Yes,Easy,Maybe,No,Open,No,36,Other,1
+1006,26-100,Yes,Neither easy nor difficult,No,No,Not open,I don't know,35,Male,1
+1007,6-25,I don't know,Easy,No,No,Open,I don't know,25,Male,0
+1008,100-500,I don't know,Easy,No,Yes,Open,No,32,Female,1
+1009,100-500,No,Neither easy nor difficult,Maybe,No,Neutral,Yes,32,Female,0
+1011,100-500,I don't know,Easy,No,Maybe,Open,No,28,Male,1
+1012,500-1000,Yes,Easy,Maybe,No,Not open,I don't know,34,Female,1
+1013,More than 1000,Yes,Neither easy nor difficult,Maybe,No,Open,Yes,40,Female,1
+1014,More than 1000,Yes,Difficult,Maybe,No,Not applicable (no mental illness),I don't know,45,Male,1
+1015,100-500,I don't know,Easy,No,Maybe,Open,Yes,31,Male,0
+1016,More than 1000,Yes,Easy,Maybe,Maybe,Open,Yes,30,Male,1
+1017,More than 1000,Yes,Neither easy nor difficult,Maybe,Yes,Open,No,47,Female,0
+1018,100-500,I don't know,Difficult,Yes,No,Not open,No,48,Male,0
+1020,More than 1000,Not eligible,Difficult,Yes,Maybe,Not open,Yes,29,Male,1
+1021,More than 1000,Yes,Easy,No,Maybe,Open,No,52,Male,0
+1022,100-500,Yes,Easy,No,Maybe,Not applicable (no mental illness),No,34,Female,0
+1023,100-500,Yes,Easy,No,Maybe,Open,No,34,Male,0
+1024,More than 1000,I don't know,I don't know,Maybe,No,Open,No,27,Male,0
+1025,More than 1000,No,Neither easy nor difficult,Maybe,No,Open,I don't know,30,Male,0
+1026,6-25,Yes,Easy,No,No,Neutral,Yes,40,Male,0
+1029,26-100,I don't know,Difficult,No,No,Open,Yes,35,Male,0
+1030,More than 1000,Yes,Easy,Maybe,Maybe,Not open,No,43,Female,0
+1031,26-100,No,Difficult,Maybe,No,Open,I don't know,36,Female,1
+1032,100-500,Yes,I don't know,Yes,Maybe,Not applicable (no mental illness),No,32,Female,0
+1034,More than 1000,No,Difficult,Yes,No,Not open,Yes,38,Male,1
+1035,More than 1000,Yes,Easy,Maybe,No,Open,No,35,Male,1
+1036,100-500,Not eligible,Neither easy nor difficult,Maybe,No,Open,Yes,35,Female,1
+1037,More than 1000,Yes,Difficult,Yes,No,Not open,Yes,45,Male,1
+1039,100-500,I don't know,Easy,Maybe,Maybe,Open,Yes,27,Male,0
+1040,26-100,I don't know,Neither easy nor difficult,Maybe,No,Open,Yes,26,Male,1
+1042,26-100,No,Difficult,Yes,No,Not open,Yes,25,Male,1
+1043,100-500,No,I don't know,Yes,No,Open,No,41,Male,0
+1044,More than 1000,Yes,Easy,Maybe,Maybe,Not applicable (no mental illness),No,34,Male,0
+1045,100-500,No,Difficult,Maybe,No,Open,Yes,43,Male,0
+1046,26-100,I don't know,Difficult,Yes,No,Open,Yes,33,Male,0
+1048,26-100,No,Difficult,Yes,No,Open,Yes,27,Female,1
+1050,More than 1000,I don't know,Easy,No,Maybe,Not open,Yes,38,Male,0
+1051,More than 1000,No,I don't know,Maybe,No,Open,I don't know,42,Male,1
+1052,26-100,Yes,I don't know,Maybe,Maybe,Open,No,30,Male,0
+1053,500-1000,Yes,Easy,Maybe,No,Open,Yes,43,Male,1
+1055,1-5,Not eligible,Easy,No,No,Not applicable (no mental illness),Yes,37,Female,0
+1056,100-500,Yes,Difficult,Maybe,No,Open,No,25,Male,1
+1057,More than 1000,Not eligible,Difficult,Yes,No,Open,Yes,27,Male,1
+1059,More than 1000,Yes,I don't know,Yes,No,Not open,No,27,Male,1
+1061,6-25,No,I don't know,Maybe,No,Open,No,24,Male,0
+1062,100-500,Not eligible,Difficult,Maybe,No,Open,Yes,31,Other,1
+1063,26-100,I don't know,Easy,No,No,Open,No,31,Male,0
+1064,More than 1000,Yes,Easy,Maybe,No,Not open,No,32,Male,1
+1065,More than 1000,No,Easy,Maybe,No,Open,No,33,Male,1
+1067,More than 1000,Yes,Difficult,Yes,No,Open,Yes,43,Male,1
+1068,More than 1000,Yes,Easy,No,Maybe,Open,I don't know,49,Male,1
+1069,26-100,No,Neither easy nor difficult,Maybe,Yes,Neutral,No,35,Male,1
+1070,More than 1000,Yes,Difficult,Yes,No,Open,No,53,Male,1
+1071,100-500,I don't know,I don't know,No,No,Open,Yes,45,Male,1
+1072,100-500,Yes,Difficult,Yes,No,Open,I don't know,40,Male,1
+1073,More than 1000,Not eligible,I don't know,Yes,No,Not open,Yes,52,Male,1
+1075,More than 1000,Yes,I don't know,Maybe,No,Neutral,No,41,Male,0
+1077,100-500,Not eligible,Easy,No,Maybe,Open,I don't know,31,Male,1
+1079,100-500,No,Easy,Maybe,No,Open,Yes,44,Male,1
+1080,More than 1000,Yes,Difficult,Maybe,No,Open,Yes,37,Male,1
+1081,6-25,No,Difficult,Maybe,Maybe,Not open,Yes,22,Male,0
+1082,26-100,Yes,Easy,Maybe,No,Open,Yes,31,Female,1
+1083,26-100,No,I don't know,Yes,No,Not open,I don't know,36,Female,0
+1085,500-1000,I don't know,Easy,Maybe,Maybe,Open,Yes,25,Female,0
+1087,1-5,Not eligible,Easy,No,No,Open,Yes,22,Female,1
+1090,500-1000,Yes,Difficult,Yes,No,Open,I don't know,36,Female,1
+1091,26-100,Yes,Difficult,Yes,No,Open,Yes,26,Female,1
+1092,More than 1000,Yes,Easy,No,Maybe,Open,Yes,43,Male,1
+1094,More than 1000,Not eligible,Neither easy nor difficult,Maybe,No,Neutral,Yes,39,Male,0
+1095,More than 1000,Yes,Neither easy nor difficult,Maybe,No,Open,I don't know,46,Male,1
+1096,1-5,Not eligible,Difficult,Yes,No,Open,Yes,32,Male,0
+1099,100-500,I don't know,Neither easy nor difficult,Maybe,No,Open,I don't know,44,Male,1
+1100,More than 1000,Yes,Neither easy nor difficult,Yes,No,Neutral,Yes,36,Male,1
+1101,More than 1000,I don't know,Easy,No,No,Not applicable (no mental illness),No,31,Female,0
+1103,100-500,Yes,Difficult,Yes,No,Not open,Yes,36,Male,1
+1105,1-5,No,Difficult,No,No,Not applicable (no mental illness),No,23,Male,0
+1106,26-100,Yes,Easy,Maybe,No,Neutral,I don't know,23,Male,0
+1109,6-25,No,Easy,No,Maybe,Open,No,49,Female,0
+1110,6-25,No,Difficult,Maybe,No,Not open,I don't know,25,Male,0
+1111,6-25,No,Difficult,Maybe,Maybe,Open,No,39,Male,0
+1112,More than 1000,No,Easy,Yes,No,Not open,No,37,Male,0
+1113,26-100,I don't know,Easy,No,Yes,Not applicable (no mental illness),No,26,Male,0
+1114,100-500,I don't know,Neither easy nor difficult,Maybe,Maybe,Open,Yes,41,Male,1
+1115,6-25,No,Easy,No,Maybe,Open,No,28,Male,0
+1116,100-500,Not eligible,Neither easy nor difficult,Maybe,No,Open,I don't know,33,Male,1
+1117,100-500,No,Difficult,Yes,Maybe,Not open,No,74,Female,1
+1118,100-500,I don't know,Easy,Maybe,Maybe,Open,Yes,28,Male,1
+1119,6-25,No,Neither easy nor difficult,Yes,No,Open,Yes,47,Male,1
+1120,100-500,I don't know,Difficult,Yes,Maybe,Not open,I don't know,25,Male,0
+1121,100-500,Yes,Easy,No,No,Open,Yes,51,Male,1
+1122,More than 1000,Yes,Difficult,Yes,No,Not open,No,26,Male,1
+1123,26-100,Yes,Neither easy nor difficult,Yes,Maybe,Not open,Yes,24,Male,0
+1125,26-100,Yes,I don't know,Yes,No,Open,Yes,32,Female,1
+1126,6-25,Yes,Difficult,Yes,No,Not open,No,57,Male,0
+1127,More than 1000,Yes,Easy,No,No,Open,Yes,39,Male,1
+1128,6-25,No,Difficult,Maybe,No,Open,Yes,26,Female,1
+1129,100-500,I don't know,I don't know,Yes,No,Not open,Yes,38,Male,0
+1130,1-5,Yes,Difficult,Maybe,No,Not open,Yes,33,Male,0
+1131,6-25,Yes,I don't know,Maybe,No,Open,Yes,30,Male,0
+1132,100-500,I don't know,Difficult,Maybe,No,Open,Yes,25,Female,1
+1133,26-100,Yes,Neither easy nor difficult,Maybe,No,Open,Yes,40,Male,1
+1134,More than 1000,Yes,Easy,Maybe,No,Open,Yes,26,Female,1
+1135,More than 1000,Yes,Neither easy nor difficult,Maybe,No,Open,Yes,34,Male,1
+1136,More than 1000,Yes,I don't know,Yes,No,Not open,Yes,46,Female,1
+1137,More than 1000,Not eligible,Difficult,Yes,No,Open,Yes,31,Female,1
+1139,More than 1000,I don't know,I don't know,Maybe,Yes,Open,No,30,Male,0
+1141,1-5,Not eligible,Difficult,Maybe,No,Open,No,29,Male,1
+1142,100-500,Yes,Easy,No,Maybe,Open,Yes,31,Male,1
+1143,26-100,I don't know,Easy,No,No,Open,I don't know,40,Male,1
+1144,26-100,Yes,Easy,Maybe,Maybe,Open,I don't know,39,Male,1
+1145,26-100,Yes,Easy,Maybe,No,Not open,No,37,Male,0
+1146,26-100,I don't know,Easy,Maybe,Maybe,Open,No,27,Male,0
+1147,26-100,I don't know,Difficult,Maybe,No,Not applicable (no mental illness),No,45,Male,0
+1148,26-100,I don't know,Easy,Maybe,No,Open,Yes,29,Male,0
+1149,26-100,Yes,Easy,No,No,Neutral,No,47,Female,0
+1150,100-500,I don't know,Easy,No,Maybe,Open,No,33,Male,0
+1151,26-100,I don't know,I don't know,Maybe,No,Not applicable (no mental illness),No,32,Male,0
+1152,26-100,I don't know,Easy,No,Maybe,Open,No,29,Male,0
+1153,26-100,Yes,Easy,No,Maybe,Open,Yes,36,Male,1
+1154,6-25,I don't know,Difficult,Yes,No,Not applicable (no mental illness),I don't know,35,Female,0
+1155,26-100,Yes,Easy,Maybe,No,Not open,Yes,40,Male,0
+1156,26-100,Yes,Difficult,Maybe,No,Not open,Yes,36,Male,1
+1157,More than 1000,I don't know,I don't know,Yes,No,Not open,I don't know,39,Female,1
+1158,26-100,Yes,Easy,No,No,Not open,No,38,Male,0
+1159,1-5,I don't know,Easy,No,Maybe,Open,I don't know,23,Male,1
+1160,500-1000,No,Neither easy nor difficult,Yes,No,Not open,Yes,29,Male,0
+1161,100-500,I don't know,Easy,No,Yes,Not applicable (no mental illness),No,38,Male,0
+1162,More than 1000,Yes,Difficult,Maybe,No,Neutral,Yes,34,Female,1
+1163,More than 1000,No,Easy,Maybe,No,Neutral,Yes,28,Male,1
+1164,6-25,No,Easy,No,Yes,Open,Yes,38,Male,1
+1165,26-100,Yes,Difficult,Yes,No,Open,I don't know,25,Female,1
+1166,More than 1000,Yes,Easy,No,Maybe,Open,Yes,36,Female,1
+1167,More than 1000,Not eligible,Difficult,Yes,No,Not open,Yes,57,Female,1
+1168,More than 1000,I don't know,Difficult,Maybe,No,Open,Yes,46,Male,1
+1169,More than 1000,Yes,Difficult,Yes,No,Open,Yes,49,Male,1
+1170,More than 1000,I don't know,Neither easy nor difficult,Maybe,No,Open,No,34,Male,1
+1171,26-100,I don't know,Easy,No,Maybe,Open,No,43,Male,0
+1174,More than 1000,Not eligible,Easy,No,No,Not open,I don't know,24,Other,1
+1175,More than 1000,Yes,Difficult,Maybe,No,Open,Yes,33,Male,1
+1176,1-5,I don't know,Easy,No,Maybe,Open,Yes,28,Male,0
+1177,More than 1000,Yes,Easy,Maybe,No,Open,Yes,48,Male,0
+1178,26-100,Yes,Difficult,Yes,Maybe,Open,I don't know,33,Female,1
+1179,100-500,Not eligible,Easy,No,No,Not open,No,40,Male,0
+1181,100-500,No,Difficult,Yes,No,Not open,Yes,22,Female,1
+1182,100-500,Yes,Easy,Maybe,No,Neutral,I don't know,23,Female,1
+1183,More than 1000,No,Easy,No,No,Open,Yes,33,Male,1
+1184,6-25,I don't know,Difficult,Yes,Maybe,Not open,I don't know,29,Male,1
+1185,More than 1000,Yes,Neither easy nor difficult,No,Maybe,Open,No,32,Male,1
+1186,26-100,Yes,Difficult,Yes,No,Open,Yes,43,Male,1
+1187,More than 1000,Yes,Easy,No,Maybe,Open,Yes,49,Male,1
+1188,More than 1000,No,Easy,No,Maybe,Open,No,44,Male,0
+1190,26-100,No,Difficult,Yes,No,Open,Yes,27,Male,0
+1191,6-25,I don't know,Difficult,Yes,Maybe,Open,No,30,Male,0
+1192,1-5,No,Difficult,No,No,Open,Yes,43,Female,0
+1193,26-100,Yes,I don't know,Maybe,No,Open,No,30,Female,1
+1194,26-100,Yes,Difficult,Maybe,No,Not open,Yes,33,Female,1
+1196,6-25,I don't know,Difficult,Yes,No,Open,Yes,26,Female,1
+1197,100-500,I don't know,Difficult,Yes,No,Open,Yes,47,Male,1
+1198,6-25,I don't know,Neither easy nor difficult,Maybe,No,Open,I don't know,30,Male,0
+1199,6-25,I don't know,Difficult,Maybe,Maybe,Not open,Yes,39,Male,0
+1200,100-500,I don't know,Easy,Maybe,No,Not open,No,36,Male,0
+1201,6-25,No,Easy,No,Maybe,Open,Yes,34,Male,1
+1202,26-100,Yes,Difficult,Maybe,Maybe,Open,Yes,25,Female,1
+1203,26-100,I don't know,Difficult,Maybe,Maybe,Open,Yes,28,Male,0
+1204,More than 1000,Yes,Easy,No,No,Open,Yes,38,Male,1
+1205,100-500,Yes,Easy,No,Maybe,Open,No,39,Male,0
+1206,6-25,I don't know,Difficult,Maybe,No,Not open,I don't know,32,Male,0
+1207,26-100,I don't know,Difficult,Maybe,No,Open,Yes,27,Female,1
+1208,500-1000,Yes,Difficult,Maybe,No,Open,Yes,31,Female,1
+1209,26-100,I don't know,Neither easy nor difficult,No,No,Not open,No,30,Female,0
+1211,26-100,I don't know,I don't know,Maybe,No,Open,Yes,26,Male,0
+1212,100-500,Yes,Easy,Maybe,No,Open,No,27,Female,1
+1213,26-100,I don't know,Difficult,No,No,Open,No,29,Male,1
+1216,More than 1000,I don't know,Easy,Maybe,No,Neutral,No,39,Male,0
+1218,500-1000,Yes,Neither easy nor difficult,Maybe,No,Open,I don't know,28,Male,1
+1221,26-100,Yes,Neither easy nor difficult,No,No,Open,I don't know,70,Male,1
+1222,6-25,No,Neither easy nor difficult,Maybe,No,Not open,Yes,25,Male,1
+1223,26-100,I don't know,Neither easy nor difficult,No,Yes,Open,No,45,Male,1
+1224,More than 1000,Yes,Neither easy nor difficult,No,No,Open,I don't know,63,Female,1
+1225,26-100,Yes,Difficult,No,No,Open,Yes,40,Male,1
+1226,26-100,Yes,Easy,Maybe,No,Open,Yes,39,Male,1
+1227,6-25,Yes,Easy,No,Maybe,Open,Yes,31,Female,1
+1228,26-100,No,Difficult,Yes,No,Not open,I don't know,34,Male,0
+1230,500-1000,Not eligible,Easy,Maybe,No,Not open,No,45,Male,0
+1231,100-500,Yes,Easy,No,Yes,Open,Yes,43,Male,1
+1232,26-100,Yes,Easy,Maybe,Maybe,Open,Yes,29,Male,0
+1233,100-500,Yes,Easy,Maybe,No,Open,Yes,27,Other,1
+1234,100-500,Yes,Difficult,Maybe,Maybe,Not open,Yes,37,Male,1
+1235,100-500,Yes,I don't know,Yes,No,Open,Yes,41,Other,1
+1236,26-100,Yes,Neither easy nor difficult,No,No,Not open,Yes,30,Female,1
+1237,26-100,Yes,Difficult,Maybe,Maybe,Open,Yes,28,Male,1
+1238,More than 1000,I don't know,I don't know,Maybe,No,Not applicable (no mental illness),No,28,Male,0
+1240,6-25,Not eligible,Difficult,Maybe,No,Not open,Yes,22,Male,1
+1241,26-100,Yes,Easy,No,Maybe,Open,I don't know,31,Male,0
+1242,26-100,No,Difficult,Maybe,No,Not applicable (no mental illness),I don't know,29,Male,0
+1243,100-500,No,Easy,Maybe,No,Not applicable (no mental illness),No,33,Male,0
+1244,100-500,I don't know,Easy,Maybe,No,Open,No,37,Male,1
+1245,100-500,I don't know,I don't know,No,Maybe,Open,No,42,Male,0
+1246,6-25,I don't know,Easy,Yes,No,Open,Yes,31,Male,1
+1249,26-100,Yes,I don't know,Maybe,Maybe,Not open,Yes,29,Male,0
+1250,More than 1000,Yes,Easy,No,Maybe,Open,No,40,Male,1
+1251,26-100,I don't know,Easy,Maybe,Maybe,Open,Yes,46,Female,1
+1253,100-500,Yes,Easy,No,Maybe,Open,No,43,Male,0
+1255,6-25,No,I don't know,Yes,No,Not applicable (no mental illness),No,32,Male,0
+1257,More than 1000,Yes,Easy,Maybe,No,Open,Yes,40,Male,1
+1258,26-100,No,Neither easy nor difficult,No,Maybe,Not open,I don't know,38,Male,1
+1259,100-500,No,Difficult,Maybe,No,Open,I don't know,32,Male,1
+1260,More than 1000,I don't know,Difficult,Yes,Maybe,Open,No,37,Male,0
+1263,6-25,No,Easy,No,Yes,Not applicable (no mental illness),Yes,24,Male,0
+1264,More than 1000,I don't know,Difficult,Yes,No,Open,Yes,34,Female,1
+1266,100-500,Yes,Neither easy nor difficult,No,No,Open,Yes,32,Male,1
+1267,1-5,No,Easy,Maybe,No,Neutral,No,29,Male,0
+1268,More than 1000,Not eligible,Easy,No,No,Open,No,20,Male,0
+1269,More than 1000,Yes,Difficult,Maybe,Maybe,Open,Yes,41,Male,0
+1270,6-25,Yes,Easy,No,No,Open,Yes,33,Female,1
+1271,26-100,I don't know,Easy,No,No,Open,Yes,25,Male,1
+1273,More than 1000,Yes,Difficult,Yes,No,Open,Yes,24,Other,1
+1274,100-500,I don't know,I don't know,No,No,Open,No,39,Male,0
+1275,500-1000,Yes,Easy,Maybe,No,Open,Yes,39,Male,0
+1278,6-25,No,Easy,Maybe,Maybe,Neutral,Yes,31,Male,0
+1279,1-5,Not eligible,Easy,No,Maybe,Open,Yes,37,Male,1
+1280,6-25,Not eligible,Difficult,Maybe,No,Open,Yes,42,Male,1
+1282,26-100,I don't know,I don't know,Maybe,No,Not open,Yes,30,Male,1
+1283,More than 1000,Yes,I don't know,No,No,Not open,No,30,Male,0
+1284,26-100,Yes,Difficult,Yes,No,Not open,Yes,33,Male,1
+1285,More than 1000,Not eligible,Neither easy nor difficult,Maybe,Yes,Open,I don't know,31,Male,1
+1286,More than 1000,Yes,Difficult,Yes,No,Open,Yes,39,Female,1
+1287,26-100,No,I don't know,No,Maybe,Open,No,27,Male,0
+1289,6-25,No,I don't know,Maybe,Yes,Open,No,31,Male,0
+1290,More than 1000,Yes,Difficult,Maybe,No,Open,Yes,30,Female,1
+1291,26-100,Yes,Easy,No,No,Not open,Yes,34,Male,1
+1292,6-25,Not eligible,Neither easy nor difficult,Maybe,No,Not open,I don't know,20,Other,0
+1294,More than 1000,I don't know,Difficult,Maybe,No,Not open,Yes,50,Female,1
+1295,1-5,No,Difficult,Yes,No,Not open,Yes,22,Male,0
+1296,100-500,Yes,Easy,Maybe,No,Open,I don't know,41,Male,1
+1297,26-100,No,Easy,No,No,Neutral,No,37,Male,0
+1298,100-500,Yes,Easy,No,No,Not open,Yes,32,Male,1
+1300,6-25,Yes,Easy,No,Maybe,Open,Yes,38,Male,0
+1302,6-25,Yes,I don't know,Maybe,No,Open,Yes,27,Male,1
+1303,1-5,No,Difficult,Yes,No,Not open,Yes,37,Female,1
+1306,6-25,I don't know,Difficult,Yes,No,Open,Yes,30,Female,0
+1307,More than 1000,No,Difficult,Yes,No,Open,Yes,21,Male,1
+1308,More than 1000,I don't know,Neither easy nor difficult,Maybe,Maybe,Not open,I don't know,21,Male,1
+1310,More than 1000,Yes,Easy,Maybe,Maybe,Open,No,46,Male,0
+1311,500-1000,Yes,Easy,No,Maybe,Open,Yes,28,Male,1
+1314,More than 1000,Yes,Neither easy nor difficult,Yes,No,Not applicable (no mental illness),No,44,Male,0
+1316,1-5,I don't know,Easy,Maybe,Maybe,Neutral,I don't know,35,Female,1
+1317,26-100,Yes,I don't know,No,No,Open,Yes,39,Male,1
+1318,More than 1000,I don't know,I don't know,Maybe,Maybe,Not applicable (no mental illness),No,37,Female,1
+1319,100-500,No,Neither easy nor difficult,Maybe,Maybe,Not open,No,35,Male,0
+1320,More than 1000,Yes,Difficult,Yes,No,Not open,Yes,29,Female,1
+1322,26-100,I don't know,Neither easy nor difficult,Maybe,No,Open,I don't know,21,Male,1
+1323,26-100,Yes,Difficult,Yes,No,Open,Yes,26,Female,1
+1324,100-500,Yes,Easy,No,No,Neutral,Yes,35,Male,1
+1325,100-500,Yes,Easy,Maybe,No,Open,No,56,Male,1
+1328,26-100,Not eligible,Easy,Maybe,Maybe,Not applicable (no mental illness),No,24,Male,0
+1329,More than 1000,No,Easy,Yes,No,Not open,No,37,Male,0
+1330,26-100,No,Difficult,Yes,No,Open,Yes,27,Female,1
+1331,1-5,I don't know,Difficult,No,No,Open,Yes,39,Female,1
+1333,100-500,Yes,Difficult,Yes,No,Open,Yes,34,Male,1
+1334,More than 1000,No,Easy,No,Maybe,Open,Yes,33,Male,1
+1335,1-5,No,Difficult,Maybe,No,Not open,I don't know,22,Male,0
+1336,6-25,Not eligible,Easy,No,Maybe,Not applicable (no mental illness),I don't know,25,Female,0
+1337,More than 1000,I don't know,Easy,No,Maybe,Neutral,No,34,Male,0
+1338,6-25,Not eligible,Neither easy nor difficult,Yes,No,Neutral,Yes,30,Male,0
+1339,26-100,No,Difficult,Maybe,Maybe,Open,I don't know,37,Male,1
+1340,6-25,No,Difficult,Yes,No,Not open,No,26,Male,0
+1341,More than 1000,Yes,I don't know,No,No,Open,No,29,Female,1
+1342,6-25,No,Difficult,Yes,Maybe,Open,I don't know,29,Male,1
+1343,26-100,No,Difficult,Maybe,No,Not open,Yes,27,Male,1
+1344,6-25,No,Neither easy nor difficult,Yes,No,Open,Yes,27,Female,1
+1345,More than 1000,I don't know,Easy,No,Yes,Open,No,23,Male,0
+1346,More than 1000,I don't know,Easy,No,Maybe,Not open,No,24,Female,0
+1348,1-5,No,Easy,No,Maybe,Open,No,28,Male,0
+1349,6-25,I don't know,I don't know,Maybe,No,Neutral,Yes,22,Male,1
+1350,26-100,No,Easy,Maybe,Maybe,Open,Yes,32,Male,0
+1351,6-25,I don't know,Difficult,Maybe,Maybe,Open,No,35,Female,1
+1352,26-100,Yes,Easy,Maybe,Yes,Not open,No,26,Male,1
+1353,More than 1000,No,Difficult,Yes,No,Not open,I don't know,31,Female,1
+1355,100-500,No,Difficult,Maybe,No,Open,I don't know,37,Male,1
+1356,6-25,No,Neither easy nor difficult,No,No,Not open,No,24,Male,1
+1357,26-100,Yes,Easy,No,Yes,Open,No,33,Male,0
+1358,100-500,Yes,Easy,No,Maybe,Open,I don't know,28,Male,1
+1359,More than 1000,I don't know,Easy,Maybe,Maybe,Not open,I don't know,22,Female,1
+1360,100-500,Not eligible,Difficult,Maybe,No,Not open,Yes,46,Male,1
+1361,26-100,Yes,Neither easy nor difficult,Maybe,Maybe,Open,I don't know,30,Male,0
+1362,26-100,I don't know,Difficult,Maybe,No,Open,No,29,Male,1
+1363,100-500,I don't know,Easy,Maybe,No,Open,Yes,22,Male,0
+1366,More than 1000,Yes,Easy,Maybe,No,Open,Yes,30,Male,1
+1368,More than 1000,Yes,Difficult,Maybe,No,Not open,No,39,Male,0
+1371,500-1000,Yes,Difficult,Maybe,No,Not applicable (no mental illness),I don't know,39,Male,0
+1372,More than 1000,Yes,Difficult,Maybe,No,Neutral,Yes,31,Female,1
+1373,100-500,Yes,I don't know,Yes,No,Open,Yes,35,Male,0
+1375,More than 1000,No,Difficult,Yes,No,Neutral,I don't know,23,Male,1
+1376,More than 1000,Yes,Difficult,Maybe,No,Open,Yes,30,Male,1
+1377,6-25,Not eligible,Neither easy nor difficult,Maybe,No,Not applicable (no mental illness),Yes,28,Male,0
+1378,More than 1000,Yes,I don't know,Yes,No,Not open,Yes,23,Female,0
+1379,26-100,Yes,Neither easy nor difficult,No,No,Open,Yes,26,Female,1
+1380,26-100,Yes,Difficult,Maybe,No,Not open,Yes,24,Female,1
+1381,More than 1000,Yes,Easy,Maybe,No,Open,No,32,Male,0
+1383,100-500,Not eligible,Easy,No,Yes,Open,No,30,Male,0
+1384,26-100,Yes,Difficult,Maybe,Maybe,Open,No,32,Male,1
+1385,6-25,Yes,I don't know,Maybe,No,Open,No,35,Male,1
+1386,26-100,I don't know,Neither easy nor difficult,Maybe,No,Not open,I don't know,26,Female,1
+1387,100-500,Yes,Easy,Maybe,Maybe,Open,Yes,30,Female,1
+1388,26-100,Yes,Difficult,Maybe,Maybe,Open,I don't know,29,Male,1
+1389,More than 1000,I don't know,Easy,Maybe,No,Open,No,39,Male,0
+1390,More than 1000,I don't know,Neither easy nor difficult,Yes,No,Open,Yes,37,Male,1
+1391,26-100,Yes,Difficult,Yes,No,Neutral,No,35,Male,0
+1392,1-5,Not eligible,I don't know,Yes,No,Not open,Yes,25,Female,1
+1393,More than 1000,Not eligible,Neither easy nor difficult,Maybe,Maybe,Open,Yes,22,Other,1
+1394,26-100,Yes,Neither easy nor difficult,Yes,No,Neutral,Yes,33,Male,1
+1395,1-5,Yes,Difficult,Yes,No,Not open,Yes,23,Male,1
+1397,26-100,Yes,Difficult,Yes,Yes,Not open,Yes,28,Male,1
+1398,More than 1000,Yes,Easy,No,No,Open,Yes,30,Male,1
+1399,100-500,Yes,Easy,No,No,Neutral,Yes,28,Male,1
+1400,6-25,Yes,Easy,No,No,Not open,Yes,28,Female,1
+1401,More than 1000,Yes,I don't know,Maybe,No,Neutral,Yes,37,Male,0
+1402,26-100,No,I don't know,Maybe,No,Open,Yes,30,Male,0
+1403,6-25,No,Difficult,Yes,No,Neutral,Yes,27,Male,1
+1405,More than 1000,I don't know,I don't know,Maybe,No,Neutral,I don't know,28,Male,1
+1406,6-25,No,Difficult,Yes,No,Not open,Yes,26,Other,1
+1407,100-500,I don't know,I don't know,Maybe,No,Open,Yes,29,Male,1
+1409,100-500,Yes,Neither easy nor difficult,No,Maybe,Not open,I don't know,36,Male,1
+1410,26-100,I don't know,Difficult,Yes,No,Open,No,38,Male,1
+1411,6-25,Yes,Easy,Yes,No,Neutral,No,22,Female,1
+1412,1-5,Not eligible,Neither easy nor difficult,No,Maybe,Open,No,24,Male,0
+1413,100-500,Yes,Easy,No,No,Open,Yes,24,Female,1
+1414,500-1000,Yes,Difficult,No,No,Open,Yes,36,Female,1
+1415,More than 1000,Not eligible,Difficult,Maybe,No,Not open,Yes,24,Female,1
+1416,500-1000,No,Easy,Maybe,No,Not open,No,24,Male,0
+1417,26-100,No,Difficult,Yes,No,Open,Yes,31,Male,1
+1418,26-100,Yes,Neither easy nor difficult,Yes,Maybe,Open,No,39,Male,0
+1419,More than 1000,Yes,Easy,Maybe,No,Neutral,Yes,41,Male,1
+1421,26-100,No,Easy,Maybe,No,Not open,I don't know,37,Male,0
+1422,26-100,I don't know,I don't know,Maybe,No,Open,No,30,Male,0
+1423,100-500,Yes,Easy,No,No,Not applicable (no mental illness),No,24,Male,0
+1424,100-500,Not eligible,Difficult,Maybe,Maybe,Open,I don't know,22,Female,1
+1425,100-500,Yes,Easy,No,No,Not open,I don't know,24,Male,0
+1426,100-500,I don't know,Easy,Maybe,Maybe,Open,I don't know,26,Female,1
+1427,500-1000,Yes,Easy,No,No,Open,Yes,38,Female,1
+1430,100-500,Yes,Difficult,Maybe,No,Open,Yes,52,Male,1
+1431,100-500,I don't know,Difficult,Maybe,No,Open,Yes,30,Female,0
+1432,100-500,Yes,Difficult,Maybe,No,Open,I don't know,25,Other,0
