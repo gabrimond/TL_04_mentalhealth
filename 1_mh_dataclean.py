@@ -22,7 +22,7 @@ pd.set_option("display.precision", 2)
 
 #%%
 #check and change current working directory
-os.chdir('/Users/Gabriele/Desktop/TechLabs/mental_health/project/TL_04_mentalhealth')
+os.chdir('/Users/Gabriele/Desktop/TechLabs/mental_health/project')
 os.getcwd()
 
 osmi_2016 = pd.read_csv('/Users/Gabriele/Desktop/TechLabs/mental_health/OSMIdatasets/mental-heath-in-tech-2016_20161114.csv')
