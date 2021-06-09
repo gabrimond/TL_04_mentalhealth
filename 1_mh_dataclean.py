@@ -231,4 +231,4 @@ clean_df['share_friendsfamily_mh'].replace(['Not applicable to me (I do not have
 clean_df['mh_benefits'].value_counts()
 clean_df['mh_benefits'].replace(['Not eligible for coverage / N/A'], 'Not eligible', inplace=True)
 
-#clean_df.to_csv('clean_df.csv')
+clean_df.to_csv('clean_df.csv')
