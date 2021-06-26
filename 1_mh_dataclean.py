@@ -180,6 +180,9 @@ df_notself_employed=df[df['self_employed']==0]
 #to select the relevant features we look at:
     #1. content and overlap
     #2. data: visualisation and p-value (chisquare, ttest)
+    
+#select questions with a p-value <0.05. When the p-value >0.05, look at the countplot to check if 
+#the variable could be useful to classify our outcome
 sns.countplot(x='nr_employees', hue='sought_mh_treatment', data=df_notself_employed)
 sns.countplot(x='mh_benefits', hue='sought_mh_treatment', data=df_notself_employed)
 sns.countplot(x='know_mh_careoptions', hue='sought_mh_treatment', data=df_notself_employed)
@@ -197,6 +200,7 @@ sns.countplot(x='mh_issue_interview', hue='sought_mh_treatment', data=df_notself
 sns.countplot(x='workplaceexp_lesslikely_sharemh', hue='sought_mh_treatment', data=df_notself_employed)
 sns.countplot(x='family_history', hue='sought_mh_treatment', data=df_notself_employed)
 sns.countplot(x='mh_interferes_work_yestreat', hue='sought_mh_treatment', data=df_notself_employed)
+
 
 
 #%%
