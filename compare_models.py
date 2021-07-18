@@ -16,8 +16,6 @@ sns.barplot(x='model',y='scores',data=df)
 
 ##next to the plot for accuracies, try to creat a AUC ROC plot containing all AUCs
 
-#try this 
-#https://stackoverflow.com/questions/42894871/how-to-plot-multiple-roc-curves-in-one-plot-with-legend-and-auc-scores-in-python/42895367
 from sklearn import metrics
 import numpy as np
 import matplotlib.pyplot as plt
